@@ -1,42 +1,20 @@
-# Nuxt 3 Minimal Starter
+# Coverup
+## A website made for finding camouflage cosmetics in Team Fortress 2
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![image](https://user-images.githubusercontent.com/103208695/216374145-2d2cd82a-2594-4ac0-a3da-b277d69e0cc5.png)
 
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
+## How to launch yourself using [Node.js](https://nodejs.org/en/) and [Visual Studio Code](https://code.visualstudio.com/download)
 
 ```bash
-npm run dev
+# install yarn
+npm install --global yarn
+
+# now install all modules
+yarn
+
+# now start project
+yarn dev
 ```
 
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## License
+This program is licensed under the GPL-3.0 License. Please read the License file to know about the usage terms and conditions.
