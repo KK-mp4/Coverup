@@ -1,0 +1,1874 @@
+[
+  {
+    "id": 0,
+    "title": "Demoman's Fro",
+    "href": "https://wiki.teamfortress.com/wiki/Demoman%27s_Fro",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/3a/Item_icon_Demoman%27s_Fro.png/75px-Item_icon_Demoman%27s_Fro.png",
+    "region": "Hat",
+    "color": [
+      83,
+      72,
+      69
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Glengarry Bonnet",
+    "href": "https://wiki.teamfortress.com/wiki/Glengarry_Bonnet",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/31/Item_icon_Glengarry_Bonnet.png/75px-Item_icon_Glengarry_Bonnet.png",
+    "region": "Hat",
+    "color": [
+      64,
+      41,
+      41
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Scotsman's Stove Pipe",
+    "href": "https://wiki.teamfortress.com/wiki/Scotsman%27s_Stove_Pipe",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/19/Item_icon_Scotsman%27s_Stove_Pipe.png/75px-Item_icon_Scotsman%27s_Stove_Pipe.png",
+    "region": "Hat",
+    "color": [
+      67,
+      58,
+      56
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Hustler's Hallmark",
+    "href": "https://wiki.teamfortress.com/wiki/Hustler%27s_Hallmark",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/32/Item_icon_Hustler%27s_Hallmark.png/75px-Item_icon_Hustler%27s_Hallmark.png",
+    "region": "Hat",
+    "color": [
+      176,
+      69,
+      67
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Tippler's Tricorne",
+    "href": "https://wiki.teamfortress.com/wiki/Tippler%27s_Tricorne",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8d/Item_icon_Tippler%27s_Tricorne.png/75px-Item_icon_Tippler%27s_Tricorne.png",
+    "region": "Hat",
+    "color": [
+      28,
+      25,
+      22
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Carouser's Capotain",
+    "href": "https://wiki.teamfortress.com/wiki/Carouser%27s_Capotain",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b2/Item_icon_Carouser%27s_Capotain.png/75px-Item_icon_Carouser%27s_Capotain.png",
+    "region": "Hat",
+    "color": [
+      146,
+      54,
+      48
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Rimmed Raincatcher",
+    "href": "https://wiki.teamfortress.com/wiki/Rimmed_Raincatcher",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/83/Item_icon_Rimmed_Raincatcher.png/75px-Item_icon_Rimmed_Raincatcher.png",
+    "region": "Hat",
+    "color": [
+      112,
+      49,
+      46
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Sober Stuntman",
+    "href": "https://wiki.teamfortress.com/wiki/Sober_Stuntman",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/7b/Item_icon_Sober_Stuntman.png/75px-Item_icon_Sober_Stuntman.png",
+    "region": "Hat",
+    "color": [
+      191,
+      150,
+      152
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Dangeresque, Too?",
+    "href": "https://wiki.teamfortress.com/wiki/Dangeresque,_Too%3F",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/18/Item_icon_Dangeresque%2C_Too.png/75px-Item_icon_Dangeresque%2C_Too.png",
+    "region": "Glasses",
+    "color": [
+      205,
+      197,
+      204
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Prince Tavish's Crown",
+    "href": "https://wiki.teamfortress.com/wiki/Prince_Tavish%27s_Crown",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/4e/Item_icon_Prince_Tavish%27s_Crown.png/75px-Item_icon_Prince_Tavish%27s_Crown.png",
+    "region": "Hat",
+    "color": [
+      101,
+      77,
+      26
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Scotch Bonnet",
+    "href": "https://wiki.teamfortress.com/wiki/Scotch_Bonnet",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/32/Item_icon_Scotch_Bonnet.png/75px-Item_icon_Scotch_Bonnet.png",
+    "region": "Hat",
+    "color": [
+      86,
+      85,
+      83
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Samur-Eye",
+    "href": "https://wiki.teamfortress.com/wiki/Samur-Eye",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/1e/Item_icon_Samur-Eye.png/75px-Item_icon_Samur-Eye.png",
+    "region": "Hat",
+    "color": [
+      109,
+      99,
+      71
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Reggaelator",
+    "href": "https://wiki.teamfortress.com/wiki/Reggaelator",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/5c/Item_icon_Reggaelator.png/75px-Item_icon_Reggaelator.png",
+    "region": "Hat",
+    "color": [
+      95,
+      75,
+      57
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Private Eye",
+    "href": "https://wiki.teamfortress.com/wiki/Private_Eye",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/33/Item_icon_Private_Eye.png/75px-Item_icon_Private_Eye.png",
+    "region": "Hat",
+    "color": [
+      96,
+      77,
+      59
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Conjurer's Cowl",
+    "href": "https://wiki.teamfortress.com/wiki/Conjurer%27s_Cowl",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/f2/Item_icon_Conjurer%27s_Cowl.png/75px-Item_icon_Conjurer%27s_Cowl.png",
+    "region": "Hat",
+    "color": [
+      169,
+      59,
+      54
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Sultan's Ceremonial",
+    "href": "https://wiki.teamfortress.com/wiki/Sultan%27s_Ceremonial",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b2/Item_icon_Sultan%27s_Ceremonial.png/75px-Item_icon_Sultan%27s_Ceremonial.png",
+    "region": "Hat",
+    "color": [
+      216,
+      87,
+      77
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Tam O' Shanter",
+    "href": "https://wiki.teamfortress.com/wiki/Tam_O%27_Shanter",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/f1/Item_icon_Tam_O%27_Shanter.png/75px-Item_icon_Tam_O%27_Shanter.png",
+    "region": "Hat",
+    "color": [
+      102,
+      25,
+      27
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Mask of the Shaman",
+    "href": "https://wiki.teamfortress.com/wiki/Mask_of_the_Shaman",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/81/Item_icon_Mask_of_the_Shaman.png/75px-Item_icon_Mask_of_the_Shaman.png",
+    "region": "Whole Head",
+    "color": [
+      186,
+      131,
+      120
+    ]
+  },
+  {
+    "id": 18,
+    "title": "A Whiff of the Old Brimstone",
+    "href": "https://wiki.teamfortress.com/wiki/A_Whiff_of_the_Old_Brimstone",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/9b/Item_icon_A_Whiff_of_the_Old_Brimstone.png/75px-Item_icon_A_Whiff_of_the_Old_Brimstone.png",
+    "region": "Grenades",
+    "color": [
+      95,
+      96,
+      94
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Buccaneer's Bicorne",
+    "href": "https://wiki.teamfortress.com/wiki/Buccaneer%27s_Bicorne",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e1/Item_icon_Buccaneer%27s_Bicorne.png/75px-Item_icon_Buccaneer%27s_Bicorne.png",
+    "region": "Hat",
+    "color": [
+      84,
+      53,
+      50
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Hat With No Name",
+    "href": "https://wiki.teamfortress.com/wiki/Hat_With_No_Name",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/25/Item_icon_Hat_With_No_Name.png/75px-Item_icon_Hat_With_No_Name.png",
+    "region": "Hat",
+    "color": [
+      127,
+      103,
+      91
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Tavish DeGroot Experience",
+    "href": "https://wiki.teamfortress.com/wiki/Tavish_DeGroot_Experience",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a3/Item_icon_Tavish_DeGroot_Experience.png/75px-Item_icon_Tavish_DeGroot_Experience.png",
+    "region": "Hat",
+    "color": [
+      69,
+      59,
+      59
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Hair of the Dog",
+    "href": "https://wiki.teamfortress.com/wiki/Hair_of_the_Dog",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/6b/Item_icon_Hair_of_the_Dog.png/75px-Item_icon_Hair_of_the_Dog.png",
+    "region": "Hat",
+    "color": [
+      52,
+      46,
+      44
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Pickled Paws",
+    "href": "https://wiki.teamfortress.com/wiki/Pickled_Paws",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/fc/Item_icon_Pickled_Paws.png/75px-Item_icon_Pickled_Paws.png",
+    "region": "Feet",
+    "color": [
+      68,
+      52,
+      46
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Scottish Snarl",
+    "href": "https://wiki.teamfortress.com/wiki/Scottish_Snarl",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/ac/Item_icon_Scottish_Snarl.png/75px-Item_icon_Scottish_Snarl.png",
+    "region": "Face",
+    "color": [
+      56,
+      39,
+      32
+    ]
+  },
+  {
+    "id": 25,
+    "title": "All-Father",
+    "href": "https://wiki.teamfortress.com/wiki/All-Father",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/77/Item_icon_All-Father.png/75px-Item_icon_All-Father.png",
+    "region": "Beard",
+    "color": [
+      139,
+      130,
+      122
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Ornament Armament",
+    "href": "https://wiki.teamfortress.com/wiki/Ornament_Armament",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/6a/Item_icon_Ornament_Armament.png/75px-Item_icon_Ornament_Armament.png",
+    "region": "Grenades",
+    "color": [
+      103,
+      101,
+      99
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Bolgan",
+    "href": "https://wiki.teamfortress.com/wiki/Bolgan",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/5b/Item_icon_Bolgan.png/75px-Item_icon_Bolgan.png",
+    "region": "Hat, Face",
+    "color": [
+      115,
+      78,
+      32
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Aladdin's Private Reserve",
+    "href": "https://wiki.teamfortress.com/wiki/Aladdin%27s_Private_Reserve",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/49/Item_icon_Aladdin%27s_Private_Reserve.png/75px-Item_icon_Aladdin%27s_Private_Reserve.png",
+    "region": "Belt",
+    "color": [
+      173,
+      137,
+      75
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Snapped Pupil",
+    "href": "https://wiki.teamfortress.com/wiki/Snapped_Pupil",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/bc/Item_icon_Snapped_Pupil.png/75px-Item_icon_Snapped_Pupil.png",
+    "region": "Glasses",
+    "color": [
+      99,
+      96,
+      93
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Teufort Tooth Kicker",
+    "href": "https://wiki.teamfortress.com/wiki/Teufort_Tooth_Kicker",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/be/Item_icon_Teufort_Tooth_Kicker.png/75px-Item_icon_Teufort_Tooth_Kicker.png",
+    "region": "Feet",
+    "color": [
+      74,
+      63,
+      56
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Professor's Pineapple",
+    "href": "https://wiki.teamfortress.com/wiki/Professor%27s_Pineapple",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/6e/Item_icon_Professor%27s_Pineapple.png/75px-Item_icon_Professor%27s_Pineapple.png",
+    "region": "Grenades",
+    "color": [
+      107,
+      106,
+      103
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Liquor Locker",
+    "href": "https://wiki.teamfortress.com/wiki/Liquor_Locker",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/d/d9/Item_icon_Liquor_Locker.png/75px-Item_icon_Liquor_Locker.png",
+    "region": "Back",
+    "color": [
+      115,
+      100,
+      83
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Bird-Man of Aberdeen",
+    "href": "https://wiki.teamfortress.com/wiki/Bird-Man_of_Aberdeen",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/80/Item_icon_Bird-Man_of_Aberdeen.png/75px-Item_icon_Bird-Man_of_Aberdeen.png",
+    "region": "Left Shoulder",
+    "color": [
+      138,
+      144,
+      76
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Grenadier Helm",
+    "href": "https://wiki.teamfortress.com/wiki/Grenadier_Helm",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/d/d1/Item_icon_Grenadier_Helm.png/75px-Item_icon_Grenadier_Helm.png",
+    "region": "Hat",
+    "color": [
+      115,
+      101,
+      85
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Battery Bandolier",
+    "href": "https://wiki.teamfortress.com/wiki/Battery_Bandolier",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/45/Item_icon_Battery_Bandolier.png/75px-Item_icon_Battery_Bandolier.png",
+    "region": "Grenades",
+    "color": [
+      97,
+      97,
+      95
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Bearded Bombardier",
+    "href": "https://wiki.teamfortress.com/wiki/Bearded_Bombardier",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/9e/Item_icon_Bearded_Bombardier.png/75px-Item_icon_Bearded_Bombardier.png",
+    "region": "Beard",
+    "color": [
+      105,
+      102,
+      99
+    ]
+  },
+  {
+    "id": 37,
+    "title": "K-9 Mane",
+    "href": "https://wiki.teamfortress.com/wiki/K-9_Mane",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/7d/Item_icon_K-9_Mane.png/75px-Item_icon_K-9_Mane.png",
+    "region": "Hat",
+    "color": [
+      99,
+      85,
+      76
+    ]
+  },
+  {
+    "id": 38,
+    "title": "King of Scotland Cape",
+    "href": "https://wiki.teamfortress.com/wiki/King_of_Scotland_Cape",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/3e/Item_icon_King_of_Scotland_Cape.png/75px-Item_icon_King_of_Scotland_Cape.png",
+    "region": "Back",
+    "color": [
+      118,
+      52,
+      51
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Menpo",
+    "href": "https://wiki.teamfortress.com/wiki/Menpo",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/3b/Item_icon_Menpo.png/75px-Item_icon_Menpo.png",
+    "region": "Beard",
+    "color": [
+      91,
+      62,
+      57
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Bonedolier",
+    "href": "https://wiki.teamfortress.com/wiki/Bonedolier",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/83/Item_icon_Bonedolier.png/75px-Item_icon_Bonedolier.png",
+    "region": "Grenades",
+    "color": [
+      109,
+      110,
+      107
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Spooky Sleeves",
+    "href": "https://wiki.teamfortress.com/wiki/Spooky_Sleeves",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/6f/Item_icon_Spooky_Sleeves.png/75px-Item_icon_Spooky_Sleeves.png",
+    "region": "Sleeves",
+    "color": [
+      82,
+      83,
+      81
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Voodoo Juju (Slight Return)",
+    "href": "https://wiki.teamfortress.com/wiki/Voodoo_Juju_(Slight_Return)",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/f9/Item_icon_Voodoo_Juju_%28Slight_Return%29.png/75px-Item_icon_Voodoo_Juju_%28Slight_Return%29.png",
+    "region": "Hat",
+    "color": [
+      64,
+      54,
+      48
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Voodoo-Cursed Demoman Soul",
+    "href": "https://wiki.teamfortress.com/wiki/Voodoo-Cursed_Demoman_Soul",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a1/Item_icon_Voodoo-Cursed_Demoman_Soul.png/75px-Item_icon_Voodoo-Cursed_Demoman_Soul.png",
+    "region": "Zombie Body",
+    "color": [
+      65,
+      38,
+      31
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Deadliest Duckling",
+    "href": "https://wiki.teamfortress.com/wiki/Deadliest_Duckling",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/96/Item_icon_Deadliest_Duckling.png/75px-Item_icon_Deadliest_Duckling.png",
+    "region": "Grenades",
+    "color": [
+      109,
+      107,
+      101
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Cool Breeze",
+    "href": "https://wiki.teamfortress.com/wiki/Cool_Breeze",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/72/Item_icon_Cool_Breeze.png/75px-Item_icon_Cool_Breeze.png",
+    "region": "Pants",
+    "color": [
+      92,
+      65,
+      61
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Mutton Mann",
+    "href": "https://wiki.teamfortress.com/wiki/Mutton_Mann",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/5c/Item_icon_Mutton_Mann.png/75px-Item_icon_Mutton_Mann.png",
+    "region": "Beard",
+    "color": [
+      95,
+      96,
+      94
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Wilson Weave",
+    "href": "https://wiki.teamfortress.com/wiki/Wilson_Weave",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8a/Item_icon_Wilson_Weave.png/75px-Item_icon_Wilson_Weave.png",
+    "region": "Hat",
+    "color": [
+      61,
+      61,
+      61
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Buck Turner All-Stars",
+    "href": "https://wiki.teamfortress.com/wiki/Buck_Turner_All-Stars",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e9/Item_icon_Buck_Turner_All-Stars.png/75px-Item_icon_Buck_Turner_All-Stars.png",
+    "region": "Feet",
+    "color": [
+      182,
+      115,
+      100
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Blind Justice",
+    "href": "https://wiki.teamfortress.com/wiki/Blind_Justice",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/02/Item_icon_Blind_Justice.png/75px-Item_icon_Blind_Justice.png",
+    "region": "Moustache and Eyepatch",
+    "color": [
+      124,
+      119,
+      109
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Bolted Bicorne",
+    "href": "https://wiki.teamfortress.com/wiki/Bolted_Bicorne",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a8/Item_icon_Bolted_Bicorne.png/75px-Item_icon_Bolted_Bicorne.png",
+    "region": "Hat",
+    "color": [
+      102,
+      63,
+      55
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Bolted Bombardier",
+    "href": "https://wiki.teamfortress.com/wiki/Bolted_Bombardier",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a0/Item_icon_Bolted_Bombardier.png/75px-Item_icon_Bolted_Bombardier.png",
+    "region": "Beard",
+    "color": [
+      110,
+      108,
+      105
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Broadband Bonnet",
+    "href": "https://wiki.teamfortress.com/wiki/Broadband_Bonnet",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/43/Item_icon_Broadband_Bonnet.png/75px-Item_icon_Broadband_Bonnet.png",
+    "region": "Hat",
+    "color": [
+      72,
+      51,
+      51
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Cyborg Stunt Helmet",
+    "href": "https://wiki.teamfortress.com/wiki/Cyborg_Stunt_Helmet",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/1c/Item_icon_Cyborg_Stunt_Helmet.png/75px-Item_icon_Cyborg_Stunt_Helmet.png",
+    "region": "Hat",
+    "color": [
+      180,
+      146,
+      145
+    ]
+  },
+  {
+    "id": 54,
+    "title": "FR-0",
+    "href": "https://wiki.teamfortress.com/wiki/FR-0",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/6a/Item_icon_FR-0.png/75px-Item_icon_FR-0.png",
+    "region": "Hat",
+    "color": [
+      75,
+      61,
+      60
+    ]
+  },
+  {
+    "id": 55,
+    "title": "HDMI Patch",
+    "href": "https://wiki.teamfortress.com/wiki/HDMI_Patch",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/9c/Item_icon_HDMI_Patch.png/75px-Item_icon_HDMI_Patch.png",
+    "region": "Glasses",
+    "color": [
+      100,
+      101,
+      99
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Pure Tin Capotain",
+    "href": "https://wiki.teamfortress.com/wiki/Pure_Tin_Capotain",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/2c/Item_icon_Pure_Tin_Capotain.png/75px-Item_icon_Pure_Tin_Capotain.png",
+    "region": "Hat",
+    "color": [
+      111,
+      72,
+      69
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Scrumpy Strongbox",
+    "href": "https://wiki.teamfortress.com/wiki/Scrumpy_Strongbox",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/20/Item_icon_Scrumpy_Strongbox.png/75px-Item_icon_Scrumpy_Strongbox.png",
+    "region": "Back",
+    "color": [
+      104,
+      93,
+      90
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Strontium Stove Pipe",
+    "href": "https://wiki.teamfortress.com/wiki/Strontium_Stove_Pipe",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/cd/Item_icon_Strontium_Stove_Pipe.png/75px-Item_icon_Strontium_Stove_Pipe.png",
+    "region": "Hat",
+    "color": [
+      66,
+      65,
+      63
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Dark Age Defender",
+    "href": "https://wiki.teamfortress.com/wiki/Dark_Age_Defender",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/c5/Item_icon_Dark_Age_Defender.png/75px-Item_icon_Dark_Age_Defender.png",
+    "region": "Left Shoulder",
+    "color": [
+      67,
+      57,
+      52
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Tartan Shade",
+    "href": "https://wiki.teamfortress.com/wiki/Tartan_Shade",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/cc/Item_icon_Tartan_Shade.png/75px-Item_icon_Tartan_Shade.png",
+    "region": "Hat",
+    "color": [
+      123,
+      68,
+      67
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Tartantaloons",
+    "href": "https://wiki.teamfortress.com/wiki/Tartantaloons",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/5f/Item_icon_Tartantaloons.png/75px-Item_icon_Tartantaloons.png",
+    "region": "Pants",
+    "color": [
+      99,
+      30,
+      31
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Black Watch",
+    "href": "https://wiki.teamfortress.com/wiki/Black_Watch",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/cf/Item_icon_Black_Watch.png/75px-Item_icon_Black_Watch.png",
+    "region": "Hat",
+    "color": [
+      140,
+      88,
+      86
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Gaelic Garb",
+    "href": "https://wiki.teamfortress.com/wiki/Gaelic_Garb",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/2e/Item_icon_Gaelic_Garb.png/75px-Item_icon_Gaelic_Garb.png",
+    "region": "Shirt, Sleeves",
+    "color": [
+      132,
+      112,
+      105
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Gaelic Golf Bag",
+    "href": "https://wiki.teamfortress.com/wiki/Gaelic_Golf_Bag",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/7c/Item_icon_Gaelic_Golf_Bag.png/75px-Item_icon_Gaelic_Golf_Bag.png",
+    "region": "Back",
+    "color": [
+      106,
+      81,
+      76
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Glasgow Great Helm",
+    "href": "https://wiki.teamfortress.com/wiki/Glasgow_Great_Helm",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/0c/Item_icon_Glasgow_Great_Helm.png/75px-Item_icon_Glasgow_Great_Helm.png",
+    "region": "Hat",
+    "color": [
+      52,
+      42,
+      40
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Macho Mann",
+    "href": "https://wiki.teamfortress.com/wiki/Macho_Mann",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/66/Item_icon_Macho_Mann.png/75px-Item_icon_Macho_Mann.png",
+    "region": "Glasses",
+    "color": [
+      97,
+      97,
+      94
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Stormin' Norman",
+    "href": "https://wiki.teamfortress.com/wiki/Stormin%27_Norman",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/aa/Item_icon_Stormin%27_Norman.png/75px-Item_icon_Stormin%27_Norman.png",
+    "region": "Hat",
+    "color": [
+      135,
+      92,
+      92
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Tartan Spartan",
+    "href": "https://wiki.teamfortress.com/wiki/Tartan_Spartan",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8a/Item_icon_Tartan_Spartan.png/75px-Item_icon_Tartan_Spartan.png",
+    "region": "Hat",
+    "color": [
+      75,
+      46,
+      47
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Whiskey Bib",
+    "href": "https://wiki.teamfortress.com/wiki/Whiskey_Bib",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/20/Item_icon_Whiskey_Bib.png/75px-Item_icon_Whiskey_Bib.png",
+    "region": "Shirt, Sleeves",
+    "color": [
+      131,
+      105,
+      99
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Hurt Locher",
+    "href": "https://wiki.teamfortress.com/wiki/Hurt_Locher",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/d/dd/Item_icon_Hurt_Locher.png/75px-Item_icon_Hurt_Locher.png",
+    "region": "Shirt",
+    "color": [
+      75,
+      52,
+      47
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Pirate Bandana",
+    "href": "https://wiki.teamfortress.com/wiki/Pirate_Bandana",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/ed/Item_icon_Pirate_Bandana.png/75px-Item_icon_Pirate_Bandana.png",
+    "region": "Hat",
+    "color": [
+      142,
+      74,
+      73
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Weight Room Warmer",
+    "href": "https://wiki.teamfortress.com/wiki/Weight_Room_Warmer",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/4f/Item_icon_Weight_Room_Warmer.png/75px-Item_icon_Weight_Room_Warmer.png",
+    "region": "Shirt",
+    "color": [
+      118,
+      63,
+      58
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Baphomet Trotters",
+    "href": "https://wiki.teamfortress.com/wiki/Baphomet_Trotters",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/12/Item_icon_Baphomet_Trotters.png/75px-Item_icon_Baphomet_Trotters.png",
+    "region": "Feet",
+    "color": [
+      61,
+      44,
+      37
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Candleer",
+    "href": "https://wiki.teamfortress.com/wiki/Candleer",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/2d/Item_icon_Candleer.png/75px-Item_icon_Candleer.png",
+    "region": "Grenades",
+    "color": [
+      105,
+      105,
+      103
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Cap'n Calamari",
+    "href": "https://wiki.teamfortress.com/wiki/Cap%27n_Calamari",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e8/Item_icon_Cap%27n_Calamari.png/75px-Item_icon_Cap%27n_Calamari.png",
+    "region": "Face, Beard",
+    "color": [
+      74,
+      57,
+      49
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Ethereal Hood",
+    "href": "https://wiki.teamfortress.com/wiki/Ethereal_Hood",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/6b/Item_icon_Ethereal_Hood.png/75px-Item_icon_Ethereal_Hood.png",
+    "region": "Whole Head",
+    "color": [
+      71,
+      74,
+      77
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Headtaker's Hood",
+    "href": "https://wiki.teamfortress.com/wiki/Headtaker%27s_Hood",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/7d/Item_icon_Headtaker%27s_Hood.png/75px-Item_icon_Headtaker%27s_Hood.png",
+    "region": "Whole Head",
+    "color": [
+      210,
+      126,
+      129
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Horsemann's Hand-Me-Down",
+    "href": "https://wiki.teamfortress.com/wiki/Horsemann%27s_Hand-Me-Down",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/0b/Item_icon_Horsemann%27s_Hand-Me-Down.png/75px-Item_icon_Horsemann%27s_Hand-Me-Down.png",
+    "region": "Back",
+    "color": [
+      31,
+      28,
+      28
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Lordly Lapels",
+    "href": "https://wiki.teamfortress.com/wiki/Lordly_Lapels",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/52/Item_icon_Lordly_Lapels.png/75px-Item_icon_Lordly_Lapels.png",
+    "region": "Collar",
+    "color": [
+      71,
+      53,
+      48
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Mann-Bird of Aberdeen",
+    "href": "https://wiki.teamfortress.com/wiki/Mann-Bird_of_Aberdeen",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e2/Item_icon_Mann-Bird_of_Aberdeen.png/75px-Item_icon_Mann-Bird_of_Aberdeen.png",
+    "region": "Whole Head",
+    "color": [
+      160,
+      163,
+      115
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Parasight",
+    "href": "https://wiki.teamfortress.com/wiki/Parasight",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a5/Item_icon_Parasight.png/75px-Item_icon_Parasight.png",
+    "region": "Face",
+    "color": [
+      92,
+      90,
+      90
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Polly Putrid",
+    "href": "https://wiki.teamfortress.com/wiki/Polly_Putrid",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/f0/Item_icon_Polly_Putrid.png/75px-Item_icon_Polly_Putrid.png",
+    "region": "Left Shoulder",
+    "color": [
+      83,
+      68,
+      54
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Squid's Lid",
+    "href": "https://wiki.teamfortress.com/wiki/Squid%27s_Lid",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b2/Item_icon_Squid%27s_Lid.png/75px-Item_icon_Squid%27s_Lid.png",
+    "region": "Hat",
+    "color": [
+      73,
+      55,
+      53
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Transylvania Top",
+    "href": "https://wiki.teamfortress.com/wiki/Transylvania_Top",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/13/Item_icon_Transylvania_Top.png/75px-Item_icon_Transylvania_Top.png",
+    "region": "Hat",
+    "color": [
+      60,
+      61,
+      60
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Highland High Heels",
+    "href": "https://wiki.teamfortress.com/wiki/Highland_High_Heels",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8c/Item_icon_Highland_High_Heels.png/75px-Item_icon_Highland_High_Heels.png",
+    "region": "Feet",
+    "color": [
+      109,
+      56,
+      49
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Tartan Tyrolean",
+    "href": "https://wiki.teamfortress.com/wiki/Tartan_Tyrolean",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/05/Item_icon_Tartan_Tyrolean.png/75px-Item_icon_Tartan_Tyrolean.png",
+    "region": "Hat",
+    "color": [
+      131,
+      60,
+      61
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Sub Zero Suit",
+    "href": "https://wiki.teamfortress.com/wiki/Sub_Zero_Suit",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/88/Item_icon_Sub_Zero_Suit.png/75px-Item_icon_Sub_Zero_Suit.png",
+    "region": "Shirt",
+    "color": [
+      119,
+      62,
+      54
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Bushi-Dou",
+    "href": "https://wiki.teamfortress.com/wiki/Bushi-Dou",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/7f/Item_icon_Bushi-Dou.png/75px-Item_icon_Bushi-Dou.png",
+    "region": "Shirt",
+    "color": [
+      67,
+      65,
+      66
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Juggernaut Jacket",
+    "href": "https://wiki.teamfortress.com/wiki/Juggernaut_Jacket",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/3e/Item_icon_Juggernaut_Jacket.png/75px-Item_icon_Juggernaut_Jacket.png",
+    "region": "Left Shoulder",
+    "color": [
+      63,
+      53,
+      49
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Sangu Sleeves",
+    "href": "https://wiki.teamfortress.com/wiki/Sangu_Sleeves",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/50/Item_icon_Sangu_Sleeves.png/75px-Item_icon_Sangu_Sleeves.png",
+    "region": "Sleeves",
+    "color": [
+      108,
+      94,
+      94
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Sole Saviors",
+    "href": "https://wiki.teamfortress.com/wiki/Sole_Saviors",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/d/d7/Item_icon_Sole_Saviors.png/75px-Item_icon_Sole_Saviors.png",
+    "region": "Feet",
+    "color": [
+      40,
+      34,
+      34
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Stylish DeGroot",
+    "href": "https://wiki.teamfortress.com/wiki/Stylish_DeGroot",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/7e/Item_icon_Stylish_DeGroot.png/75px-Item_icon_Stylish_DeGroot.png",
+    "region": "Head Skin",
+    "color": [
+      84,
+      47,
+      43
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Toowoomba Tunic",
+    "href": "https://wiki.teamfortress.com/wiki/Toowoomba_Tunic",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/0b/Item_icon_Toowoomba_Tunic.png/75px-Item_icon_Toowoomba_Tunic.png",
+    "region": "Shirt",
+    "color": [
+      109,
+      58,
+      52
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Allbrero",
+    "href": "https://wiki.teamfortress.com/wiki/Allbrero",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/eb/Item_icon_Allbrero.png/75px-Item_icon_Allbrero.png",
+    "region": "Hat",
+    "color": [
+      180,
+      142,
+      97
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Frontier Djustice",
+    "href": "https://wiki.teamfortress.com/wiki/Frontier_Djustice",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/ba/Item_icon_Frontier_Djustice.png/75px-Item_icon_Frontier_Djustice.png",
+    "region": "Hat",
+    "color": [
+      81,
+      74,
+      67
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Razor Cut",
+    "href": "https://wiki.teamfortress.com/wiki/Razor_Cut",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/7f/Item_icon_Razor_Cut.png/75px-Item_icon_Razor_Cut.png",
+    "region": "Hat",
+    "color": [
+      67,
+      36,
+      34
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Seeing Double",
+    "href": "https://wiki.teamfortress.com/wiki/Seeing_Double",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a5/Item_icon_Seeing_Double.png/75px-Item_icon_Seeing_Double.png",
+    "region": "Glasses",
+    "color": [
+      137,
+      102,
+      53
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Six Pack Abs",
+    "href": "https://wiki.teamfortress.com/wiki/Six_Pack_Abs",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/3b/Item_icon_Six_Pack_Abs.png/75px-Item_icon_Six_Pack_Abs.png",
+    "region": "Grenades",
+    "color": [
+      112,
+      108,
+      98
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Mann of the Seven Sees",
+    "href": "https://wiki.teamfortress.com/wiki/Mann_of_the_Seven_Sees",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/fe/Item_icon_Mann_of_the_Seven_Sees.png/75px-Item_icon_Mann_of_the_Seven_Sees.png",
+    "region": "Sleeves",
+    "color": [
+      129,
+      92,
+      83
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Eyeborg",
+    "href": "https://wiki.teamfortress.com/wiki/Eyeborg",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/30/Item_icon_Eyeborg.png/75px-Item_icon_Eyeborg.png",
+    "region": "Glasses",
+    "color": [
+      62,
+      47,
+      44
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Forgotten King's Pauldrons",
+    "href": "https://wiki.teamfortress.com/wiki/Forgotten_King%27s_Pauldrons",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/90/Item_icon_Forgotten_King%27s_Pauldrons.png/75px-Item_icon_Forgotten_King%27s_Pauldrons.png",
+    "region": "Collar",
+    "color": [
+      85,
+      85,
+      84
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Forgotten King's Restless Head",
+    "href": "https://wiki.teamfortress.com/wiki/Forgotten_King%27s_Restless_Head",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/18/Item_icon_Forgotten_King%27s_Restless_Head.png/75px-Item_icon_Forgotten_King%27s_Restless_Head.png",
+    "region": "Whole Head",
+    "color": [
+      69,
+      57,
+      52
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Mannhattan Project",
+    "href": "https://wiki.teamfortress.com/wiki/Mannhattan_Project",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/f7/Item_icon_Mannhattan_Project.png/75px-Item_icon_Mannhattan_Project.png",
+    "region": "Hat",
+    "color": [
+      130,
+      104,
+      67
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Bomber's Bucket Hat",
+    "href": "https://wiki.teamfortress.com/wiki/Bomber%27s_Bucket_Hat",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/ed/Item_icon_Bomber%27s_Bucket_Hat.png/75px-Item_icon_Bomber%27s_Bucket_Hat.png",
+    "region": "Hat",
+    "color": [
+      88,
+      74,
+      74
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Double Dog Dare Demo Pants",
+    "href": "https://wiki.teamfortress.com/wiki/Double_Dog_Dare_Demo_Pants",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/81/Item_icon_Double_Dog_Dare_Demo_Pants.png/75px-Item_icon_Double_Dog_Dare_Demo_Pants.png",
+    "region": "Pants",
+    "color": [
+      108,
+      46,
+      46
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Double Dynamite",
+    "href": "https://wiki.teamfortress.com/wiki/Double_Dynamite",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/86/Item_icon_Double_Dynamite.png/75px-Item_icon_Double_Dynamite.png",
+    "region": "Grenades",
+    "color": [
+      56,
+      43,
+      42
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Snow Sleeves",
+    "href": "https://wiki.teamfortress.com/wiki/Snow_Sleeves",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/99/Item_icon_Snow_Sleeves.png/75px-Item_icon_Snow_Sleeves.png",
+    "region": "Shirt",
+    "color": [
+      118,
+      81,
+      75
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Scot Bonnet",
+    "href": "https://wiki.teamfortress.com/wiki/Scot_Bonnet",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/20/Item_icon_Scot_Bonnet.png/75px-Item_icon_Scot_Bonnet.png",
+    "region": "Hat",
+    "color": [
+      70,
+      61,
+      53
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Storm Stompers",
+    "href": "https://wiki.teamfortress.com/wiki/Storm_Stompers",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/1a/Item_icon_Storm_Stompers.png/75px-Item_icon_Storm_Stompers.png",
+    "region": "Feet",
+    "color": [
+      52,
+      41,
+      38
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Valhalla Helm",
+    "href": "https://wiki.teamfortress.com/wiki/Valhalla_Helm",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/2f/Item_icon_Valhalla_Helm.png/75px-Item_icon_Valhalla_Helm.png",
+    "region": "Hat",
+    "color": [
+      145,
+      98,
+      88
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Bruce's Bonnet",
+    "href": "https://wiki.teamfortress.com/wiki/Bruce%27s_Bonnet",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a6/Item_icon_Bruce%27s_Bonnet.png/75px-Item_icon_Bruce%27s_Bonnet.png",
+    "region": "Hat",
+    "color": [
+      63,
+      58,
+      50
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Outta' Sight",
+    "href": "https://wiki.teamfortress.com/wiki/Outta%27_Sight",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/40/Item_icon_Outta%27_Sight.png/75px-Item_icon_Outta%27_Sight.png",
+    "region": "Hat",
+    "color": [
+      81,
+      73,
+      65
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Hood of Sorrows",
+    "href": "https://wiki.teamfortress.com/wiki/Hood_of_Sorrows",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/ec/Item_icon_Hood_of_Sorrows.png/75px-Item_icon_Hood_of_Sorrows.png",
+    "region": "Hat",
+    "color": [
+      151,
+      109,
+      103
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Teufort Knight",
+    "href": "https://wiki.teamfortress.com/wiki/Teufort_Knight",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/4c/Item_icon_Teufort_Knight.png/75px-Item_icon_Teufort_Knight.png",
+    "region": "Whole Head",
+    "color": [
+      65,
+      57,
+      58
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Shin Shredders",
+    "href": "https://wiki.teamfortress.com/wiki/Shin_Shredders",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/06/Item_icon_Shin_Shredders.png/75px-Item_icon_Shin_Shredders.png",
+    "region": "Pants",
+    "color": [
+      56,
+      37,
+      39
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Dayjogger",
+    "href": "https://wiki.teamfortress.com/wiki/Dayjogger",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/9e/Item_icon_Dayjogger.png/75px-Item_icon_Dayjogger.png",
+    "region": "Hat",
+    "color": [
+      61,
+      49,
+      46
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Demo's Dustcatcher",
+    "href": "https://wiki.teamfortress.com/wiki/Demo%27s_Dustcatcher",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/9d/Item_icon_Demo%27s_Dustcatcher.png/75px-Item_icon_Demo%27s_Dustcatcher.png",
+    "region": "Collar",
+    "color": [
+      89,
+      78,
+      70
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Aerobatics Demonstrator",
+    "href": "https://wiki.teamfortress.com/wiki/Aerobatics_Demonstrator",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/15/Item_icon_Aerobatics_Demonstrator.png/75px-Item_icon_Aerobatics_Demonstrator.png",
+    "region": "Belt",
+    "color": [
+      123,
+      109,
+      104
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Spirit of the Bombing Past",
+    "href": "https://wiki.teamfortress.com/wiki/Spirit_of_the_Bombing_Past",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/34/Item_icon_Spirit_of_the_Bombing_Past.png/75px-Item_icon_Spirit_of_the_Bombing_Past.png",
+    "region": "Hat",
+    "color": [
+      72,
+      62,
+      59
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Bomb Beanie",
+    "href": "https://wiki.teamfortress.com/wiki/Bomb_Beanie",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/66/Item_icon_Bomb_Beanie.png/75px-Item_icon_Bomb_Beanie.png",
+    "region": "Hat",
+    "color": [
+      114,
+      65,
+      58
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Bomber Knight",
+    "href": "https://wiki.teamfortress.com/wiki/Bomber_Knight",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e6/Item_icon_Bomber_Knight.png/75px-Item_icon_Bomber_Knight.png",
+    "region": "Hat",
+    "color": [
+      67,
+      62,
+      62
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Elf Esteem",
+    "href": "https://wiki.teamfortress.com/wiki/Elf_Esteem",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8a/Item_icon_Elf_Esteem.png/75px-Item_icon_Elf_Esteem.png",
+    "region": "Hat",
+    "color": [
+      87,
+      68,
+      40
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Socked and Loaded",
+    "href": "https://wiki.teamfortress.com/wiki/Socked_and_Loaded",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/96/Item_icon_Socked_and_Loaded.png/75px-Item_icon_Socked_and_Loaded.png",
+    "region": "Belt",
+    "color": [
+      167,
+      112,
+      103
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Handy Canes",
+    "href": "https://wiki.teamfortress.com/wiki/Handy_Canes",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e6/Item_icon_Handy_Canes.png/75px-Item_icon_Handy_Canes.png",
+    "region": "Grenades",
+    "color": [
+      106,
+      106,
+      103
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Reader's Choice",
+    "href": "https://wiki.teamfortress.com/wiki/Reader%27s_Choice",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/70/Item_icon_Reader%27s_Choice.png/75px-Item_icon_Reader%27s_Choice.png",
+    "region": "Glasses",
+    "color": [
+      139,
+      113,
+      88
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Blast Defense",
+    "href": "https://wiki.teamfortress.com/wiki/Blast_Defense",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e8/Item_icon_Blast_Defense.png/75px-Item_icon_Blast_Defense.png",
+    "region": "Whole Head",
+    "color": [
+      78,
+      66,
+      63
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Bananades",
+    "href": "https://wiki.teamfortress.com/wiki/Bananades",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/57/Item_icon_Bananades.png/75px-Item_icon_Bananades.png",
+    "region": "Grenades",
+    "color": [
+      104,
+      104,
+      100
+    ]
+  },
+  {
+    "id": 128,
+    "title": "War Eagle",
+    "href": "https://wiki.teamfortress.com/wiki/War_Eagle",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/ae/Item_icon_War_Eagle.png/75px-Item_icon_War_Eagle.png",
+    "region": "Hat",
+    "color": [
+      135,
+      113,
+      49
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Blast Blocker",
+    "href": "https://wiki.teamfortress.com/wiki/Blast_Blocker",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/ae/Item_icon_Blast_Blocker.png/75px-Item_icon_Blast_Blocker.png",
+    "region": "Grenades",
+    "color": [
+      55,
+      44,
+      41
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Hungover Hero",
+    "href": "https://wiki.teamfortress.com/wiki/Hungover_Hero",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/7f/Item_icon_Hungover_Hero.png/75px-Item_icon_Hungover_Hero.png",
+    "region": "Hat",
+    "color": [
+      156,
+      90,
+      92
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Melody Of Misery",
+    "href": "https://wiki.teamfortress.com/wiki/Melody_Of_Misery",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/7c/Item_icon_Melody_Of_Misery.png/75px-Item_icon_Melody_Of_Misery.png",
+    "region": "Back",
+    "color": [
+      116,
+      47,
+      44
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Antarctic Eyewear",
+    "href": "https://wiki.teamfortress.com/wiki/Antarctic_Eyewear",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/12/Item_icon_Antarctic_Eyewear.png/75px-Item_icon_Antarctic_Eyewear.png",
+    "region": "Hat",
+    "color": [
+      67,
+      62,
+      56
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Frag Proof Fragger",
+    "href": "https://wiki.teamfortress.com/wiki/Frag_Proof_Fragger",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/17/Item_icon_Frag_Proof_Fragger.png/75px-Item_icon_Frag_Proof_Fragger.png",
+    "region": "Whole Head",
+    "color": [
+      81,
+      52,
+      54
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Gaelic Glutton",
+    "href": "https://wiki.teamfortress.com/wiki/Gaelic_Glutton",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/12/Item_icon_Gaelic_Glutton.png/75px-Item_icon_Gaelic_Glutton.png",
+    "region": "Beard",
+    "color": [
+      79,
+      47,
+      46
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Backbreaker's Guards",
+    "href": "https://wiki.teamfortress.com/wiki/Backbreaker%27s_Guards",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/2c/Item_icon_Backbreaker%27s_Guards.png/75px-Item_icon_Backbreaker%27s_Guards.png",
+    "region": "Grenades",
+    "color": [
+      139,
+      106,
+      102
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Backbreaker's Skullcracker",
+    "href": "https://wiki.teamfortress.com/wiki/Backbreaker%27s_Skullcracker",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/83/Item_icon_Backbreaker%27s_Skullcracker.png/75px-Item_icon_Backbreaker%27s_Skullcracker.png",
+    "region": "Hat",
+    "color": [
+      154,
+      97,
+      84
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Bobby Bonnet",
+    "href": "https://wiki.teamfortress.com/wiki/Bobby_Bonnet",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a6/Item_icon_Bobby_Bonnet.png/75px-Item_icon_Bobby_Bonnet.png",
+    "region": "Hat",
+    "color": [
+      70,
+      68,
+      67
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Dynamite Abs",
+    "href": "https://wiki.teamfortress.com/wiki/Dynamite_Abs",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/56/Item_icon_Dynamite_Abs.png/75px-Item_icon_Dynamite_Abs.png",
+    "region": "Shirt",
+    "color": [
+      85,
+      57,
+      51
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Unforgiven Glory",
+    "href": "https://wiki.teamfortress.com/wiki/Unforgiven_Glory",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/87/Item_icon_Unforgiven_Glory.png/75px-Item_icon_Unforgiven_Glory.png",
+    "region": "Face",
+    "color": [
+      66,
+      52,
+      49
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Spiky Viking",
+    "href": "https://wiki.teamfortress.com/wiki/Spiky_Viking",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/ec/Item_icon_Spiky_Viking.png/75px-Item_icon_Spiky_Viking.png",
+    "region": "Hat",
+    "color": [
+      82,
+      70,
+      63
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Hazard Headgear",
+    "href": "https://wiki.teamfortress.com/wiki/Hazard_Headgear",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/ef/Item_icon_Hazard_Headgear.png/75px-Item_icon_Hazard_Headgear.png",
+    "region": "Hat",
+    "color": [
+      95,
+      76,
+      54
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Sophisticated Smoker",
+    "href": "https://wiki.teamfortress.com/wiki/Sophisticated_Smoker",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b5/Item_icon_Sophisticated_Smoker.png/75px-Item_icon_Sophisticated_Smoker.png",
+    "region": "Hat",
+    "color": [
+      73,
+      68,
+      66
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Boom Boxers",
+    "href": "https://wiki.teamfortress.com/wiki/Boom_Boxers",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a6/Item_icon_Boom_Boxers.png/75px-Item_icon_Boom_Boxers.png",
+    "region": "Pants",
+    "color": [
+      172,
+      131,
+      132
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Helm Helm",
+    "href": "https://wiki.teamfortress.com/wiki/Helm_Helm",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/cc/Item_icon_Helm_Helm.png/75px-Item_icon_Helm_Helm.png",
+    "region": "Hat",
+    "color": [
+      156,
+      110,
+      84
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Particulate Protector",
+    "href": "https://wiki.teamfortress.com/wiki/Particulate_Protector",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/f9/Item_icon_Particulate_Protector.png/75px-Item_icon_Particulate_Protector.png",
+    "region": "Beard",
+    "color": [
+      199,
+      186,
+      176
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Death Stare",
+    "href": "https://wiki.teamfortress.com/wiki/Death_Stare",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/07/Item_icon_Death_Stare.png/75px-Item_icon_Death_Stare.png",
+    "region": "Face",
+    "color": [
+      173,
+      151,
+      141
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Trickster's Treats",
+    "href": "https://wiki.teamfortress.com/wiki/Trickster%27s_Treats",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/3c/Item_icon_Trickster%27s_Treats.png/75px-Item_icon_Trickster%27s_Treats.png",
+    "region": "Grenades",
+    "color": [
+      200,
+      161,
+      141
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Barefoot Brawler",
+    "href": "https://wiki.teamfortress.com/wiki/Barefoot_Brawler",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/28/Item_icon_Barefoot_Brawler.png/75px-Item_icon_Barefoot_Brawler.png",
+    "region": "Pants, Feet",
+    "color": [
+      127,
+      51,
+      44
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Hawaiian Hangover",
+    "href": "https://wiki.teamfortress.com/wiki/Hawaiian_Hangover",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/44/Item_icon_Hawaiian_Hangover.png/75px-Item_icon_Hawaiian_Hangover.png",
+    "region": "Shirt",
+    "color": [
+      94,
+      57,
+      54
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Head Banger",
+    "href": "https://wiki.teamfortress.com/wiki/Head_Banger",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/fb/Item_icon_Head_Banger.png/75px-Item_icon_Head_Banger.png",
+    "region": "Hat",
+    "color": [
+      116,
+      94,
+      64
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Alcoholic Automaton",
+    "href": "https://wiki.teamfortress.com/wiki/Alcoholic_Automaton",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/33/Item_icon_Alcoholic_Automaton.png/75px-Item_icon_Alcoholic_Automaton.png",
+    "region": "Head Replacement",
+    "color": [
+      60,
+      54,
+      54
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Bombard Brigadier",
+    "href": "https://wiki.teamfortress.com/wiki/Bombard_Brigadier",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/77/Item_icon_Bombard_Brigadier.png/75px-Item_icon_Bombard_Brigadier.png",
+    "region": "Hat",
+    "color": [
+      139,
+      86,
+      53
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Nightbane Brim",
+    "href": "https://wiki.teamfortress.com/wiki/Nightbane_Brim",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/54/Item_icon_Nightbane_Brim.png/75px-Item_icon_Nightbane_Brim.png",
+    "region": "Hat",
+    "color": [
+      74,
+      46,
+      42
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Glasgow Bankroll",
+    "href": "https://wiki.teamfortress.com/wiki/Glasgow_Bankroll",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a6/Item_icon_Glasgow_Bankroll.png/75px-Item_icon_Glasgow_Bankroll.png",
+    "region": "Shirt",
+    "color": [
+      102,
+      57,
+      54
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Plaid Lad",
+    "href": "https://wiki.teamfortress.com/wiki/Plaid_Lad",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/77/Item_icon_Plaid_Lad.png/75px-Item_icon_Plaid_Lad.png",
+    "region": "Hat",
+    "color": [
+      127,
+      67,
+      68
+    ]
+  }
+]

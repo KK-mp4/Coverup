@@ -1,0 +1,1574 @@
+[
+  {
+    "id": 0,
+    "title": "Park Pigmented War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/ef/Backpack_Park_Pigmented_War_Paint_Factory_New.png/120px-Backpack_Park_Pigmented_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      115,
+      97,
+      50
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Sax Waxed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/82/Backpack_Sax_Waxed_War_Paint_Factory_New.png/120px-Backpack_Sax_Waxed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      92,
+      75,
+      59
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Yeti Coated War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/c4/Backpack_Yeti_Coated_War_Paint_Factory_New.png/120px-Backpack_Yeti_Coated_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      112,
+      107,
+      108
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Croc Dusted War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/01/Backpack_Croc_Dusted_War_Paint_Factory_New.png/120px-Backpack_Croc_Dusted_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      89,
+      114,
+      102
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Macaw Masked War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/46/Backpack_Macaw_Masked_War_Paint_Factory_New.png/120px-Backpack_Macaw_Masked_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      60,
+      87,
+      83
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Pi%C3%B1a Polished War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/0b/Backpack_Pi%C3%B1a_Polished_War_Paint_Factory_New.png/120px-Backpack_Pi%C3%B1a_Polished_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      110,
+      97,
+      49
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Anodized Aloha War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/01/Backpack_Anodized_Aloha_War_Paint_Factory_New.png/120px-Backpack_Anodized_Aloha_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      125,
+      84,
+      51
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Bamboo Brushed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/15/Backpack_Bamboo_Brushed_War_Paint_Factory_New.png/120px-Backpack_Bamboo_Brushed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      104,
+      92,
+      72
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Leopard Printed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e5/Backpack_Leopard_Printed_War_Paint_Factory_New.png/120px-Backpack_Leopard_Printed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      103,
+      92,
+      61
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Mannana Peeled War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/49/Backpack_Mannana_Peeled_War_Paint_Factory_New.png/120px-Backpack_Mannana_Peeled_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      140,
+      132,
+      66
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Tiger Buffed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b1/Backpack_Tiger_Buffed_War_Paint_Factory_New.png/120px-Backpack_Tiger_Buffed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      102,
+      90,
+      61
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Fire Glazed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/89/Backpack_Fire_Glazed_War_Paint_Factory_New.png/120px-Backpack_Fire_Glazed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      160,
+      101,
+      33
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Bonk Varnished War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/91/Backpack_Bonk_Varnished_War_Paint_Factory_New.png/120px-Backpack_Bonk_Varnished_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      167,
+      92,
+      28
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Dream Piped War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/67/Backpack_Dream_Piped_War_Paint_Factory_New.png/120px-Backpack_Dream_Piped_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      158,
+      124,
+      128
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Freedom Wrapped War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e1/Backpack_Freedom_Wrapped_War_Paint_Factory_New.png/120px-Backpack_Freedom_Wrapped_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      93,
+      95,
+      96
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Bank Rolled War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/62/Backpack_Bank_Rolled_War_Paint_Factory_New.png/120px-Backpack_Bank_Rolled_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      110,
+      111,
+      89
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Clover Camo%27d War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/07/Backpack_Clover_Camo%27d_War_Paint_Factory_New.png/120px-Backpack_Clover_Camo%27d_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      62,
+      77,
+      44
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Kill Covered War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/f0/Backpack_Kill_Covered_War_Paint_Factory_New.png/120px-Backpack_Kill_Covered_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      63,
+      59,
+      56
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Pizza Polished War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/91/Backpack_Pizza_Polished_War_Paint_Factory_New.png/120px-Backpack_Pizza_Polished_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      148,
+      114,
+      58
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Bloom Buffed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/50/Backpack_Bloom_Buffed_War_Paint_Factory_New.png/120px-Backpack_Bloom_Buffed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      149,
+      105,
+      102
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Cardboard Boxed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/5f/Backpack_Cardboard_Boxed_War_Paint_Factory_New.png/120px-Backpack_Cardboard_Boxed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      165,
+      150,
+      128
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Merc Stained War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/66/Backpack_Merc_Stained_War_Paint_Factory_New.png/120px-Backpack_Merc_Stained_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      87,
+      69,
+      55
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Quack Canvassed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/30/Backpack_Quack_Canvassed_War_Paint_Factory_New.png/120px-Backpack_Quack_Canvassed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      93,
+      105,
+      67
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Star Crossed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/93/Backpack_Star_Crossed_War_Paint_Factory_New.png/120px-Backpack_Star_Crossed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      77,
+      59,
+      64
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Carpet Bomber Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/86/Backpack_Carpet_Bomber_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Carpet_Bomber_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      103,
+      77,
+      57
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Woodland Warrior Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8a/Backpack_Woodland_Warrior_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Woodland_Warrior_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      114,
+      113,
+      80
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Wrapped Reviver Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/03/Backpack_Wrapped_Reviver_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Wrapped_Reviver_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      88,
+      61,
+      39
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Forest Fire Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/81/Backpack_Forest_Fire_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Forest_Fire_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      77,
+      69,
+      55
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Night Owl Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/3a/Backpack_Night_Owl_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Night_Owl_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      61,
+      57,
+      52
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Woodsy Widowmaker Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/1e/Backpack_Woodsy_Widowmaker_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Woodsy_Widowmaker_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      67,
+      67,
+      53
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Autumn Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/d/da/Backpack_Autumn_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Autumn_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      92,
+      61,
+      32
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Plaid Potshotter Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8a/Backpack_Plaid_Potshotter_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Plaid_Potshotter_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      98,
+      39,
+      30
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Civil Servant Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/71/Backpack_Civil_Servant_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Civil_Servant_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      111,
+      82,
+      65
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Civic Duty Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8c/Backpack_Civic_Duty_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Civic_Duty_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      149,
+      112,
+      88
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Bovine Blazemaker Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b4/Backpack_Bovine_Blazemaker_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Bovine_Blazemaker_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      90,
+      80,
+      75
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Dead Reckoner Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/c4/Backpack_Dead_Reckoner_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Dead_Reckoner_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      74,
+      72,
+      61
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Backwoods Boomstick Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b2/Backpack_Backwoods_Boomstick_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Backwoods_Boomstick_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      101,
+      111,
+      72
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Masked Mender Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/9e/Backpack_Masked_Mender_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Masked_Mender_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      84,
+      66,
+      49
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Iron Wood Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/d/de/Backpack_Iron_Wood_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Iron_Wood_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      82,
+      70,
+      43
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Macabre Web Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/2a/Backpack_Macabre_Web_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Macabre_Web_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      53,
+      58,
+      57
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Nutcracker Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/52/Backpack_Nutcracker_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Nutcracker_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      85,
+      67,
+      44
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Smalltown Bringdown Mk.II War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/0b/Backpack_Smalltown_Bringdown_Mk.II_War_Paint_Factory_New.png/120px-Backpack_Smalltown_Bringdown_Mk.II_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      138,
+      103,
+      68
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Dragon Slayer War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/57/Backpack_Dragon_Slayer_War_Paint_Factory_New.png/120px-Backpack_Dragon_Slayer_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      135,
+      86,
+      47
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Smissmas Sweater War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8f/Backpack_Smissmas_Sweater_War_Paint_Factory_New.png/120px-Backpack_Smissmas_Sweater_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      123,
+      106,
+      87
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Miami Element War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/d/de/Backpack_Miami_Element_War_Paint_Factory_New.png/120px-Backpack_Miami_Element_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      118,
+      89,
+      113
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Jazzy War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/80/Backpack_Jazzy_War_Paint_Factory_New.png/120px-Backpack_Jazzy_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      97,
+      96,
+      142
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Mosaic War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/27/Backpack_Mosaic_War_Paint_Factory_New.png/120px-Backpack_Mosaic_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      82,
+      66,
+      54
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Cosmic Calamity War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/51/Backpack_Cosmic_Calamity_War_Paint_Factory_New.png/120px-Backpack_Cosmic_Calamity_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      79,
+      49,
+      70
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Hana War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e6/Backpack_Hana_War_Paint_Factory_New.png/120px-Backpack_Hana_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      155,
+      123,
+      144
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Neo Tokyo War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/06/Backpack_Neo_Tokyo_War_Paint_Factory_New.png/120px-Backpack_Neo_Tokyo_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      104,
+      56,
+      51
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Uranium War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/54/Backpack_Uranium_War_Paint_Factory_New.png/120px-Backpack_Uranium_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      90,
+      88,
+      52
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Alien Tech War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/57/Backpack_Alien_Tech_War_Paint_Factory_New.png/120px-Backpack_Alien_Tech_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      46,
+      53,
+      41
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Bomber Soul War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b1/Backpack_Bomber_Soul_War_Paint_Factory_New.png/120px-Backpack_Bomber_Soul_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      68,
+      75,
+      62
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Cabin Fevered War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e1/Backpack_Cabin_Fevered_War_Paint_Factory_New.png/120px-Backpack_Cabin_Fevered_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      122,
+      98,
+      87
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Damascus and Mahogany War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/cc/Backpack_Damascus_and_Mahogany_War_Paint_Factory_New.png/120px-Backpack_Damascus_and_Mahogany_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      64,
+      57,
+      50
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Dovetailed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/84/Backpack_Dovetailed_War_Paint_Factory_New.png/120px-Backpack_Dovetailed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      164,
+      139,
+      136
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Geometrical Teams War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/17/Backpack_Geometrical_Teams_War_Paint_Factory_New.png/120px-Backpack_Geometrical_Teams_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      87,
+      61,
+      57
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Hazard Warning War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/c0/Backpack_Hazard_Warning_War_Paint_Factory_New.png/120px-Backpack_Hazard_Warning_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      78,
+      71,
+      51
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Polar Surprise War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/c3/Backpack_Polar_Surprise_War_Paint_Factory_New.png/120px-Backpack_Polar_Surprise_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      124,
+      90,
+      90
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Electroshocked War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/5a/Backpack_Electroshocked_War_Paint_Factory_New.png/120px-Backpack_Electroshocked_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      97,
+      92,
+      59
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Ghost Town War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/84/Backpack_Ghost_Town_War_Paint_Factory_New.png/120px-Backpack_Ghost_Town_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      64,
+      50,
+      96
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Tumor Toasted War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/30/Backpack_Tumor_Toasted_War_Paint_Factory_New.png/120px-Backpack_Tumor_Toasted_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      108,
+      94,
+      59
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Calavera Canvas War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/34/Backpack_Calavera_Canvas_War_Paint_Factory_New.png/120px-Backpack_Calavera_Canvas_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      66,
+      52,
+      51
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Spectral Shimmered War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/65/Backpack_Spectral_Shimmered_War_Paint_Factory_New.png/120px-Backpack_Spectral_Shimmered_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      104,
+      68,
+      82
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Skull Study War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/3a/Backpack_Skull_Study_War_Paint_Factory_New.png/120px-Backpack_Skull_Study_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      63,
+      46,
+      42
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Haunted Ghosts War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/20/Backpack_Haunted_Ghosts_War_Paint_Factory_New.png/120px-Backpack_Haunted_Ghosts_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      96,
+      108,
+      91
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Horror Holiday War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/eb/Backpack_Horror_Holiday_War_Paint_Factory_New.png/120px-Backpack_Horror_Holiday_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      87,
+      60,
+      57
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Spirit of Halloween War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8f/Backpack_Spirit_of_Halloween_War_Paint_Factory_New.png/120px-Backpack_Spirit_of_Halloween_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      64,
+      44,
+      44
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Totally Boned War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/40/Backpack_Totally_Boned_War_Paint_Factory_New.png/120px-Backpack_Totally_Boned_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      112,
+      101,
+      98
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Winterland Wrapped War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/38/Backpack_Winterland_Wrapped_War_Paint_Factory_New.png/120px-Backpack_Winterland_Wrapped_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      93,
+      92,
+      36
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Smissmas Camo War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/63/Backpack_Smissmas_Camo_War_Paint_Factory_New.png/120px-Backpack_Smissmas_Camo_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      87,
+      90,
+      79
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Smissmas Village War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/4f/Backpack_Smissmas_Village_War_Paint_Factory_New.png/120px-Backpack_Smissmas_Village_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      86,
+      70,
+      57
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Frost Ornamented War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/71/Backpack_Frost_Ornamented_War_Paint_Factory_New.png/120px-Backpack_Frost_Ornamented_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      161,
+      119,
+      115
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Sleighin%27 Style War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/2c/Backpack_Sleighin%27_Style_War_Paint_Factory_New.png/120px-Backpack_Sleighin%27_Style_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      84,
+      62,
+      46
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Snow Covered War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/ab/Backpack_Snow_Covered_War_Paint_Factory_New.png/120px-Backpack_Snow_Covered_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      123,
+      94,
+      86
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Alpine War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a7/Backpack_Alpine_War_Paint_Factory_New.png/120px-Backpack_Alpine_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      72,
+      84,
+      65
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Gift Wrapped War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/62/Backpack_Gift_Wrapped_War_Paint_Factory_New.png/120px-Backpack_Gift_Wrapped_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      143,
+      74,
+      39
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Igloo War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/36/Backpack_Igloo_War_Paint_Factory_New.png/120px-Backpack_Igloo_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      139,
+      150,
+      160
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Seriously Snowed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/60/Backpack_Seriously_Snowed_War_Paint_Factory_New.png/120px-Backpack_Seriously_Snowed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      148,
+      108,
+      107
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Spectrum Splattered War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/ff/Backpack_Spectrum_Splattered_War_Paint_Factory_New.png/120px-Backpack_Spectrum_Splattered_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      69,
+      89,
+      87
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Pumpkin Pied War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/85/Backpack_Pumpkin_Pied_War_Paint_Factory_New.png/120px-Backpack_Pumpkin_Pied_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      149,
+      113,
+      60
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Mummified Mimic War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/45/Backpack_Mummified_Mimic_War_Paint_Factory_New.png/120px-Backpack_Mummified_Mimic_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      142,
+      128,
+      104
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Helldriver War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8d/Backpack_Helldriver_War_Paint_Factory_New.png/120px-Backpack_Helldriver_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      46,
+      85,
+      52
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Sweet Toothed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/50/Backpack_Sweet_Toothed_War_Paint_Factory_New.png/120px-Backpack_Sweet_Toothed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      106,
+      81,
+      58
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Crawlspace Critters War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/7f/Backpack_Crawlspace_Critters_War_Paint_Factory_New.png/120px-Backpack_Crawlspace_Critters_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      51,
+      44,
+      50
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Raving Dead War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/fe/Backpack_Raving_Dead_War_Paint_Factory_New.png/120px-Backpack_Raving_Dead_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      36,
+      59,
+      47
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Spider%27s Cluster War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e1/Backpack_Spider%27s_Cluster_War_Paint_Factory_New.png/120px-Backpack_Spider%27s_Cluster_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      103,
+      63,
+      45
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Candy Coated War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/11/Backpack_Candy_Coated_War_Paint_Factory_New.png/120px-Backpack_Candy_Coated_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      126,
+      84,
+      47
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Portal Plastered War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/7c/Backpack_Portal_Plastered_War_Paint_Factory_New.png/120px-Backpack_Portal_Plastered_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      62,
+      49,
+      73
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Death Deluxe War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8c/Backpack_Death_Deluxe_War_Paint_Factory_New.png/120px-Backpack_Death_Deluxe_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      102,
+      98,
+      94
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Eyestalker War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/38/Backpack_Eyestalker_War_Paint_Factory_New.png/120px-Backpack_Eyestalker_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      84,
+      81,
+      69
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Gourdy Green War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/d/dd/Backpack_Gourdy_Green_War_Paint_Factory_New.png/120px-Backpack_Gourdy_Green_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      76,
+      65,
+      23
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Spider Season War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e9/Backpack_Spider_Season_War_Paint_Factory_New.png/120px-Backpack_Spider_Season_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      107,
+      102,
+      93
+    ]
+  },
+  {
+    "id": 93,
+    "title": "ically Hellraised War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/fd/Backpack_Organ-ically_Hellraised_War_Paint_Factory_New.png/120px-Backpack_Organ-ically_Hellraised_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      94,
+      63,
+      48
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Starlight Serenity War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/c2/Backpack_Starlight_Serenity_War_Paint_Factory_New.png/120px-Backpack_Starlight_Serenity_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      82,
+      59,
+      60
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Saccharine Striped War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/f7/Backpack_Saccharine_Striped_War_Paint_Factory_New.png/120px-Backpack_Saccharine_Striped_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      88,
+      62,
+      58
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Frosty Delivery War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e6/Backpack_Frosty_Delivery_War_Paint_Factory_New.png/120px-Backpack_Frosty_Delivery_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      144,
+      109,
+      85
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Cookie Fortress War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/d/d5/Backpack_Cookie_Fortress_War_Paint_Factory_New.png/120px-Backpack_Cookie_Fortress_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      127,
+      102,
+      80
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Frozen Aurora War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a3/Backpack_Frozen_Aurora_War_Paint_Factory_New.png/120px-Backpack_Frozen_Aurora_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      96,
+      112,
+      153
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Elfin Enamel War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/51/Backpack_Elfin_Enamel_War_Paint_Factory_New.png/120px-Backpack_Elfin_Enamel_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      66,
+      78,
+      43
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Smissmas Spycrabs War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/91/Backpack_Smissmas_Spycrabs_War_Paint_Factory_New.png/120px-Backpack_Smissmas_Spycrabs_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      132,
+      54,
+      52
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Gingerbread Winner War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/67/Backpack_Gingerbread_Winner_War_Paint_Factory_New.png/120px-Backpack_Gingerbread_Winner_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      153,
+      130,
+      105
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Peppermint Swirl War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/03/Backpack_Peppermint_Swirl_War_Paint_Factory_New.png/120px-Backpack_Peppermint_Swirl_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      168,
+      100,
+      93
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Gifting Mann%27s Wrapping Paper War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/d/de/Backpack_Gifting_Mann%27s_Wrapping_Paper_War_Paint_Factory_New.png/120px-Backpack_Gifting_Mann%27s_Wrapping_Paper_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      84,
+      86,
+      52
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Glacial Glazed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b1/Backpack_Glacial_Glazed_War_Paint_Factory_New.png/120px-Backpack_Glacial_Glazed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      117,
+      129,
+      134
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Snow Globalization War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/07/Backpack_Snow_Globalization_War_Paint_Factory_New.png/120px-Backpack_Snow_Globalization_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      172,
+      130,
+      116
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Snowflake Swirled War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/f1/Backpack_Snowflake_Swirled_War_Paint_Factory_New.png/120px-Backpack_Snowflake_Swirled_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      123,
+      47,
+      56
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Misfortunate War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b2/Backpack_Misfortunate_War_Paint_Factory_New.png/120px-Backpack_Misfortunate_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      66,
+      77,
+      68
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Broken Bones War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/2e/Backpack_Broken_Bones_War_Paint_Factory_New.png/120px-Backpack_Broken_Bones_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      79,
+      104,
+      98
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Party Phantoms War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8e/Backpack_Party_Phantoms_War_Paint_Factory_New.png/120px-Backpack_Party_Phantoms_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      68,
+      40,
+      42
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Necromanced War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e1/Backpack_Necromanced_War_Paint_Factory_New.png/120px-Backpack_Necromanced_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      47,
+      35,
+      26
+    ]
+  },
+  {
+    "id": 111,
+    "title": "ween War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/92/Backpack_Neon-ween_War_Paint_Factory_New.png/120px-Backpack_Neon-ween_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      69,
+      39,
+      55
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Guised War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/42/Backpack_Polter-Guised_War_Paint_Factory_New.png/120px-Backpack_Polter-Guised_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      99,
+      44,
+      24
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Swashbuckled War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/88/Backpack_Swashbuckled_War_Paint_Factory_New.png/120px-Backpack_Swashbuckled_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      61,
+      53,
+      48
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Kiln and Conquer War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/28/Backpack_Kiln_and_Conquer_War_Paint_Factory_New.png/120px-Backpack_Kiln_and_Conquer_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      81,
+      73,
+      66
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Potent Poison War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b2/Backpack_Potent_Poison_War_Paint_Factory_New.png/120px-Backpack_Potent_Poison_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      61,
+      40,
+      81
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Sarsparilla Sprayed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/ad/Backpack_Sarsparilla_Sprayed_War_Paint_Factory_New.png/120px-Backpack_Sarsparilla_Sprayed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      107,
+      80,
+      60
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Searing Souls War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b2/Backpack_Searing_Souls_War_Paint_Factory_New.png/120px-Backpack_Searing_Souls_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      134,
+      84,
+      29
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Simple Spirits War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/d/d7/Backpack_Simple_Spirits_War_Paint_Factory_New.png/120px-Backpack_Simple_Spirits_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      90,
+      72,
+      62
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Skull Cracked War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/9b/Backpack_Skull_Cracked_War_Paint_Factory_New.png/120px-Backpack_Skull_Cracked_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      70,
+      71,
+      69
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Sacred Slayer War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a5/Backpack_Sacred_Slayer_War_Paint_Factory_New.png/120px-Backpack_Sacred_Slayer_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      53,
+      43,
+      33
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Bonzo Gnawed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/ea/Backpack_Bonzo_Gnawed_War_Paint_Factory_New.png/120px-Backpack_Bonzo_Gnawed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      89,
+      100,
+      73
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Ghoul Blaster War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8f/Backpack_Ghoul_Blaster_War_Paint_Factory_New.png/120px-Backpack_Ghoul_Blaster_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      79,
+      71,
+      39
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Metalized Soul War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/fa/Backpack_Metalized_Soul_War_Paint_Factory_New.png/120px-Backpack_Metalized_Soul_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      64,
+      57,
+      44
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Pumpkin Plastered War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/ac/Backpack_Pumpkin_Plastered_War_Paint_Factory_New.png/120px-Backpack_Pumpkin_Plastered_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      112,
+      58,
+      35
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Chilly Autumn War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b4/Backpack_Chilly_Autumn_War_Paint_Factory_New.png/120px-Backpack_Chilly_Autumn_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      94,
+      52,
+      34
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Sunriser War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/f4/Backpack_Sunriser_War_Paint_Factory_New.png/120px-Backpack_Sunriser_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      58,
+      45,
+      40
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Health and Hell War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/1f/Backpack_Health_and_Hell_War_Paint_Factory_New.png/120px-Backpack_Health_and_Hell_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      106,
+      53,
+      34
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Health and Hell %28Green%29 War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/39/Backpack_Health_and_Hell_%28Green%29_War_Paint_Factory_New.png/120px-Backpack_Health_and_Hell_%28Green%29_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      38,
+      111,
+      42
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Hypergon War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/19/Backpack_Hypergon_War_Paint_Factory_New.png/120px-Backpack_Hypergon_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      48,
+      43,
+      53
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Cream Corned War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/75/Backpack_Cream_Corned_War_Paint_Factory_New.png/120px-Backpack_Cream_Corned_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      179,
+      127,
+      65
+    ]
+  }
+]

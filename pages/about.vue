@@ -1,0 +1,39 @@
+<script setup lang="ts">
+useHead({ title: "About Coverup" });
+</script>
+<template>
+    <div class="h-screen min-w-[300px] p-14">
+        <button @click="$router.push('/')" class="overflow-hidden h-8 w-full bg-[#DD644F] text-[#ECE3CB] p-1 px-2 rounded-lg active:bg-[#ECE3CB] active:text-[#DD644F]">Back to finder</button>
+        <p class="mt-10 text-9xl">Coverup</p>
+        <p class="text-2xl text-yellow-400">by <a class="underline" href="https://www.youtube.com/@pl_upward" target="_blank" rel="noopener noreferrer">Fart scent</a></p>
+        <p class="mt-4">A website made for finding camouflage cosmetics in <a class="underline" href="https://www.teamfortress.com/" target="_blank" rel="noopener noreferrer">Team Fortress 2</a> to help you blend with the environment and stay out of sight for longer.</p>
+        <p class="text-xl mt-4">Chapters:</p>
+        <p class="underline"><a href="#how">How to use</a></p>
+        <p class="underline"><a href="#why">What those numbers mean</a></p>
+        <p class="underline"><a href="#what">What items are compatible with each other</a></p>
+        <p class="underline"><a href="#video">Video showcase</a></p>
+
+        <p class="text-2xl text-yellow-400 mt-10" id="how">How to use</p>
+        <p>First of all, you will need to get colour to search for. You can do it in just about any image editing software, but from free options I recommend <a class="underline" href="https://www.getpaint.net/download.html" target="_blank" rel="noopener noreferrer">paint.net</a></p>
+        <p>Launch TF2 and take a screenshot of the area you want to camouflage, open it, click Image -> Resize and input width and height of 1 pixel, click ok, select colour picker tool and click on that pixel. On the colour tab you can click "More >>" and get RGB values.</p>
+        <p>Now simply input it into the corresponding field on the website (or select preset), select class and item type to search for and you're done!</p>
+
+        <p class="text-2xl text-yellow-400 mt-10" id="why">What those numbers mean</p>
+        <p>Those numbers above items are <a class="underline" href="https://en.wikipedia.org/wiki/Color_difference" target="_blank" rel="noopener noreferrer">Delta E 1976</a> values. It's a single number that represents the 'distance' between two colors:</p>
+        <p class="text-green-500 text-sm">0: No color difference</p>
+        <p class="text-green-400 text-sm">1: Slight color difference</p>
+        <p class="text-lime-300 text-sm">2: Small color difference</p>
+        <p class="text-yellow-500 text-sm">3: Medium color difference</p>
+        <p class="text-orange-500 text-sm">4: Large color difference</p>
+        <p class="text-red-500 text-sm">5+: Very large color difference</p>
+
+        <p class="text-2xl text-yellow-400 mt-10" id="what">What items are compatable with eachother</p>
+        <p>According to <a class="underline" href="https://wiki.teamfortress.com/wiki/Equip_region" target="_blank" rel="noopener noreferrer">TF2 wiki</a>: "Equipping two items that have equip regions in both below columns, or two items that have the same region, is not allowed by the game."</p>
+        <p>Glasses conflict with Face, Lenses</p>
+        <p>Whole Head conflicts with Hat, Face, Glasses</p>
+        <p class="text-red-300">Note: if you've got items and they are not comparable with one another or their color is different to the one listed on the site, don't blame me, I took all information from the wiki and not game files!</p>
+        
+        <p class="text-2xl text-yellow-400 mt-10" id="video">Video showcase:</p>
+        <iframe class="mx-auto" width="1280" height="720" src="https://www.youtube.com/embed/S1NiZhq8VwE" title="Mathematically Perfect Camouflage From Cosmetics | Team Fortress 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+</template>
