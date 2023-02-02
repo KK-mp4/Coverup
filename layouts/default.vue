@@ -20,7 +20,7 @@ useHead({
 
 <template>
     <div class="h-screen">
-      <link rel="preload" href="/Coverup/tf2build.ttf" as="font" type="font/woff2" />
+      <!-- <link rel="preload" href="/Coverup/tf2build.ttf" as="font" type="font/woff2" /> -->
         <slot />
     </div>
 </template>

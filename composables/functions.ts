@@ -7,4 +7,4 @@ export interface Idata {
     color: number[];
 }
 
-export const baseURL = "http://localhost:3000/items/";
+export const baseURL = "./items/";
