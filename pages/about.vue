@@ -4,7 +4,7 @@ useHead({ title: "About Coverup" });
 <template>
     <div class="h-screen min-w-[300px] p-14">
         <button @click="$router.push('/')" class="overflow-hidden h-8 w-full bg-[#DD644F] text-[#ECE3CB] p-1 px-2 rounded-lg active:bg-[#ECE3CB] active:text-[#DD644F]">Back to finder</button>
-        <p class="mt-10 text-9xl">Coverup</p>
+        <p class="mt-10 text-9xl"><a class="underline" href="https://github.com/KK-mp4/Coverup/" target="_blank" rel="noopener noreferrer">Coverup</a></p>
         <p class="text-2xl text-yellow-400">by <a class="underline" href="https://www.youtube.com/@pl_upward" target="_blank" rel="noopener noreferrer">Fart scent</a></p>
         <p class="mt-4">A website made for finding camouflage cosmetics in <a class="underline" href="https://www.teamfortress.com/" target="_blank" rel="noopener noreferrer">Team Fortress 2</a> to help you blend with the environment and stay out of sight for longer.</p>
         <p class="text-xl mt-4">Chapters:</p>
@@ -31,7 +31,7 @@ useHead({ title: "About Coverup" });
         <p>According to <a class="underline" href="https://wiki.teamfortress.com/wiki/Equip_region" target="_blank" rel="noopener noreferrer">TF2 wiki</a>: "Equipping two items that have equip regions in both below columns, or two items that have the same region, is not allowed by the game."</p>
         <p>Glasses conflict with Face, Lenses</p>
         <p>Whole Head conflicts with Hat, Face, Glasses</p>
-        <p class="text-red-300">Note: if you've got items and they are not comparable with one another or their color is different to the one listed on the site, don't blame me, I took all information from the wiki and not game files!</p>
+        <p class="text-red-300">Note: if you've got items and they are not compatible with one another or their color is different to the one listed on the site, don't blame me, I took all information from the wiki and not game files!</p>
         
         <p class="text-2xl text-yellow-400 mt-10" id="video">Video showcase:</p>
         <iframe class="mx-auto" width="1280" height="720" src="https://www.youtube.com/embed/S1NiZhq8VwE" title="Mathematically Perfect Camouflage From Cosmetics | Team Fortress 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

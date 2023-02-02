@@ -5,8 +5,8 @@ import { hexToRgb, RGBtoXYZ, XYZtoLAB } from '../composables/colorConvertion';
 
 useHead({ title: "Coverup" });
 
-const selectedColour = ref("#AE9779");   //colour to search for
-const selectedPreset = ref("#AE9779");  //colour preset
+const selectedColour = ref("#815A50");   //colour to search for
+const selectedPreset = ref("#815A50");  //colour preset
 const selectedClass = ref(8);   //selected class for search
 const selectedType = ref(1);    //selected item type for search
 let slots = ref([-1, -1, -1]);  //selected items for loadout
@@ -174,7 +174,7 @@ async function itemSwitch() {
 }
 </script>
 <template>
-    <div class="h-screen flex flex-col min-w-[488px]">
+    <div class="h-screen flex flex-col">
         <div class="h-[45vh] w-full flex flex-row">
             <div class="h-full w-[50vw] p-2 min-w-[244px]">
                 <div class="w-full h-full border-2 border-[#84756B] rounded-xl bg-[#2A2725] flex flex-col justify-evenly">
