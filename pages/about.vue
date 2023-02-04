@@ -2,7 +2,7 @@
 useHead({ title: "About Coverup" });
 </script>
 <template>
-    <div class="h-screen min-w-[300px] p-14">
+    <div class="h-screen p-14">
         <button @click="$router.push('/')" class="overflow-hidden h-8 w-full bg-[#DD644F] text-[#ECE3CB] p-1 px-2 rounded-lg active:bg-[#ECE3CB] active:text-[#DD644F]">Back to finder</button>
         <p class="mt-10 text-9xl"><a class="underline" href="https://github.com/KK-mp4/Coverup/" target="_blank" rel="noopener noreferrer">Coverup</a></p>
         <p class="text-2xl text-yellow-400">by <a class="underline" href="https://www.youtube.com/@pl_upward" target="_blank" rel="noopener noreferrer">Fart scent</a></p>
@@ -34,6 +34,7 @@ useHead({ title: "About Coverup" });
         <p class="text-red-300">Note: if you've got items and they are not compatible with one another or their color is different to the one listed on the site, don't blame me, I took all information from the wiki and not game files!</p>
         
         <p class="text-2xl text-yellow-400 mt-10" id="video">Video showcase:</p>
-        <iframe class="mx-auto" width="1280" height="720" src="https://www.youtube.com/embed/S1NiZhq8VwE" title="Mathematically Perfect Camouflage From Cosmetics | Team Fortress 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe class="mx-auto sm:h-[360px] sm:w-[640px] xl:h-[720px] xl:w-[1280px]" src="https://www.youtube.com/embed/S1NiZhq8VwE" title="Mathematically Perfect Camouflage From Cosmetics | Team Fortress 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe class="mt-4 mx-auto sm:h-[360px] sm:w-[640px] xl:h-[720px] xl:w-[1280px]" src="https://www.youtube.com/embed/uahG9DeCYqU" title="Finder for Camouflage Cosmetics | Team Fortress 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 </template>

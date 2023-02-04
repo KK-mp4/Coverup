@@ -80,6 +80,16 @@ function presetChange() {
 }
 
 function checkCompatability(id: number): boolean {
+
+    // let regionArray = data.data[id].region.split(",");
+    // for(let i = 0; i < regionArray.length; i++) {
+    //     for (let j = 0; j < 3; j++) {
+    //         if (slots.value[i] != -1) {
+    //             if (data.data[slots.value[j]].region.includes(regionArray[i])) return false;
+    //         }
+    //     }
+    // }
+
     for (let i = 0; i < 3; i++) {
         if (slots.value[i] === id) {
             return false;
@@ -176,7 +186,7 @@ async function itemSwitch() {
 <template>
     <div class="h-screen flex flex-col">
         <div class="h-[45vh] w-full flex flex-row">
-            <div class="h-full w-[50vw] p-2 min-w-[244px]">
+            <div class="h-full w-[50vw] p-2">
                 <div class="w-full h-full border-2 border-[#84756B] rounded-xl bg-[#2A2725] flex flex-col justify-evenly">
                     <div class="mx-auto w-[70%] h-[30%] border-2 border-[#84756B] rounded-xl bg-[#292526] text-center">
                         <p class="text-[#766B5E]">Cosmetic 1</p>
@@ -204,7 +214,7 @@ async function itemSwitch() {
                     </div>
                 </div>
             </div>
-            <div class="h-full w-[50vw] p-2 min-w-[244px]">
+            <div class="h-full w-[50vw] p-2">
                 <div class="overflow-hidden w-full h-full border-2 border-[#84756B] rounded-xl bg-[#2A2725] p-2">
                     <div class="h-12 flex justify-around overflow-hidden">
                         <div :class="{'bg-[#181614]': selectedClass === 1, 'bg-[#393631]': selectedClass != 1}" class="h-[20px] md:h-[40px] w-[20px] md:w-[40px] my-auto rounded-xl">
