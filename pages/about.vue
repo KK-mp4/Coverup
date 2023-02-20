@@ -12,6 +12,7 @@ useHead({ title: "About Coverup" });
         <p class="underline"><a href="#why">What those numbers mean</a></p>
         <p class="underline"><a href="#what">What items are compatible with each other</a></p>
         <p class="underline"><a href="#video">Video showcase</a></p>
+        <p class="underline"><a href="#palettes">Colour palettes</a></p>
 
         <p class="text-2xl text-yellow-400 mt-10" id="how">How to use</p>
         <p>First of all, you will need to get colour to search for. You can do it in just about any image editing software, but from free options I recommend <a class="underline" href="https://www.getpaint.net/download.html" target="_blank" rel="noopener noreferrer">paint.net</a></p>
@@ -36,5 +37,43 @@ useHead({ title: "About Coverup" });
         <p class="text-2xl text-yellow-400 mt-10" id="video">Video showcase:</p>
         <iframe class="mx-auto sm:h-[360px] sm:w-[640px] xl:h-[720px] xl:w-[1280px]" src="https://www.youtube.com/embed/S1NiZhq8VwE" title="Mathematically Perfect Camouflage From Cosmetics | Team Fortress 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <iframe class="mt-4 mx-auto sm:h-[360px] sm:w-[640px] xl:h-[720px] xl:w-[1280px]" src="https://www.youtube.com/embed/uahG9DeCYqU" title="Finder for Camouflage Cosmetics | Team Fortress 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+        <p class="text-2xl text-yellow-400 mt-10" id="palettes">Colour palettes:</p>
+        <p>Achievements</p>
+        <div class="mt-2 w-[75vw] h-[32px] border-2 border-gray-700 rounded-sm overflow-hidden flex">
+            <div class="h-[32px] w-[100%] bg-[#3E3E3E]"></div>
+            <div class="h-[32px] w-[100%] bg-[#F5732D]"></div>
+            <div class="h-[32px] w-[100%] bg-[#F4E5C1]"></div>
+        </div>
+        <p class="mt-5">RED team</p>
+        <div class="mt-2 w-[75vw] h-[32px] border-2 border-gray-700 rounded-sm overflow-hidden flex">
+            <div class="h-[32px] w-[100%] bg-[#504743]"></div>
+            <div class="h-[32px] w-[100%] bg-[#9E4942]"></div>
+            <div class="h-[32px] w-[100%] bg-[#F17972]"></div>
+            <div class="h-[32px] w-[100%] bg-[#F7EBBE]"></div>
+        </div>
+        <p class="mt-5">BLU team</p>
+        <div class="mt-2 w-[75vw] h-[32px] border-2 border-gray-700 rounded-sm overflow-hidden flex">
+            <div class="h-[32px] w-[100%] bg-[#504743]"></div>
+            <div class="h-[32px] w-[100%] bg-[#3E526D]"></div>
+            <div class="h-[32px] w-[100%] bg-[#8AD1FD]"></div>
+            <div class="h-[32px] w-[100%] bg-[#F4F3DD]"></div>
+        </div>
+        <p class="mt-5">Upward</p>
+        <div class="mt-2 w-[75vw] h-[32px] border-2 border-gray-700 rounded-sm overflow-hidden flex">
+            <div class="h-[32px] w-[100%] bg-[#323232]"></div>
+            <div class="h-[32px] w-[100%] bg-[#FED699]"></div>
+            <div class="h-[32px] w-[100%] bg-[#C6866D]"></div>
+            <div class="h-[32px] w-[100%] bg-[#92938E]"></div>
+            <div class="h-[32px] w-[100%] bg-[#9AB7C9]"></div>
+        </div>
+        <p class="mt-5">Badwater</p>
+        <div class="mt-2 w-[75vw] h-[32px] border-2 border-gray-700 rounded-sm overflow-hidden flex">
+            <div class="h-[32px] w-[100%] bg-[#4F3538]"></div>
+            <div class="h-[32px] w-[100%] bg-[#E98F5A]"></div>
+            <div class="h-[32px] w-[100%] bg-[#C6866D]"></div>
+            <div class="h-[32px] w-[100%] bg-[#4B443E]"></div>
+            <div class="h-[32px] w-[100%] bg-[#A1ACCA]"></div>
+        </div>
     </div>
 </template>
