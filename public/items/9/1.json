@@ -1354,5 +1354,101 @@
       83,
       78
     ]
+  },
+  {
+    "id": 113,
+    "title": "Cleaner's Cap",
+    "href": "https://wiki.teamfortress.com/wiki/Cleaner%27s_Cap",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/93/Item_icon_Cleaner%27s_Cap.png/75px-Item_icon_Cleaner%27s_Cap.png",
+    "region": "Hat, Glasses",
+    "color": [
+      67,
+      67,
+      67
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Le Professionnel",
+    "href": "https://wiki.teamfortress.com/wiki/Le_Professionnel",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/83/Item_icon_Le_Professionnel.png/75px-Item_icon_Le_Professionnel.png",
+    "region": "Coat",
+    "color": [
+      80,
+      59,
+      55
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Classic Criminal",
+    "href": "https://wiki.teamfortress.com/wiki/Classic_Criminal",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/4d/Item_icon_Classic_Criminal.png/75px-Item_icon_Classic_Criminal.png",
+    "region": "Head Skin",
+    "color": [
+      82,
+      64,
+      59
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Concealed Convict",
+    "href": "https://wiki.teamfortress.com/wiki/Concealed_Convict",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/f2/Item_icon_Concealed_Convict.png/75px-Item_icon_Concealed_Convict.png",
+    "region": "Coat",
+    "color": [
+      78,
+      61,
+      56
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Six-Eyed Specs",
+    "href": "https://wiki.teamfortress.com/wiki/Six-Eyed_Specs",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/89/Item_icon_Six-Eyed_Specs.png/75px-Item_icon_Six-Eyed_Specs.png",
+    "region": "Head Skin",
+    "color": [
+      73,
+      43,
+      49
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Spyder",
+    "href": "https://wiki.teamfortress.com/wiki/Spyder",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/92/Item_icon_Spyder.png/75px-Item_icon_Spyder.png",
+    "region": "Pants",
+    "color": [
+      57,
+      44,
+      49
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Covert Covers",
+    "href": "https://wiki.teamfortress.com/wiki/Covert_Covers",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/c3/Item_icon_Covert_Covers.png/75px-Item_icon_Covert_Covers.png",
+    "region": "Hat, Face, Necklace",
+    "color": [
+      98,
+      54,
+      52
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Strasbourg Scholar",
+    "href": "https://wiki.teamfortress.com/wiki/Strasbourg_Scholar",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/ec/Item_icon_Strasbourg_Scholar.png/75px-Item_icon_Strasbourg_Scholar.png",
+    "region": "Coat",
+    "color": [
+      89,
+      62,
+      58
+    ]
   }
 ]

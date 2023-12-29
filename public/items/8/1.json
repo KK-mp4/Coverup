@@ -1594,5 +1594,113 @@
       54,
       54
     ]
+  },
+  {
+    "id": 133,
+    "title": "Bushman",
+    "href": "https://wiki.teamfortress.com/wiki/Bushman",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b4/Item_icon_Bushman.png/75px-Item_icon_Bushman.png",
+    "region": "Arms, Shirt",
+    "color": [
+      112,
+      68,
+      56
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Cranium Cover",
+    "href": "https://wiki.teamfortress.com/wiki/Cranium_Cover",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/2a/Item_icon_Cranium_Cover.png/75px-Item_icon_Cranium_Cover.png",
+    "region": "Hat",
+    "color": [
+      126,
+      74,
+      46
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Glorious Gambeson",
+    "href": "https://wiki.teamfortress.com/wiki/Glorious_Gambeson",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/eb/Item_icon_Glorious_Gambeson.png/75px-Item_icon_Glorious_Gambeson.png",
+    "region": "Vest",
+    "color": [
+      123,
+      70,
+      65
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Preventative Measure",
+    "href": "https://wiki.teamfortress.com/wiki/Preventative_Measure",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/63/Item_icon_Preventative_Measure.png/75px-Item_icon_Preventative_Measure.png",
+    "region": "Vest",
+    "color": [
+      98,
+      59,
+      56
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Carry-Van",
+    "href": "https://wiki.teamfortress.com/wiki/Carry-Van",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/ea/Item_icon_Carry-Van.png/75px-Item_icon_Carry-Van.png",
+    "region": "Belt",
+    "color": [
+      82,
+      75,
+      63
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Sharpshooter's Shroud",
+    "href": "https://wiki.teamfortress.com/wiki/Sharpshooter%27s_Shroud",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e0/Item_icon_Sharpshooter%27s_Shroud.png/75px-Item_icon_Sharpshooter%27s_Shroud.png",
+    "region": "Vest",
+    "color": [
+      91,
+      54,
+      47
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Sightseer",
+    "href": "https://wiki.teamfortress.com/wiki/Sightseer",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/bb/Item_icon_Sightseer.png/75px-Item_icon_Sightseer.png",
+    "region": "Hat",
+    "color": [
+      136,
+      81,
+      63
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Rugged Rags",
+    "href": "https://wiki.teamfortress.com/wiki/Rugged_Rags",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/43/Item_icon_Rugged_Rags.png/75px-Item_icon_Rugged_Rags.png",
+    "region": "Vest",
+    "color": [
+      117,
+      46,
+      44
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Scruffed 'n Stitched",
+    "href": "https://wiki.teamfortress.com/wiki/Scruffed_%27n_Stitched",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/ff/Item_icon_Scruffed_%27n_Stitched.png/75px-Item_icon_Scruffed_%27n_Stitched.png",
+    "region": "Hat, Beard",
+    "color": [
+      114,
+      86,
+      69
+    ]
   }
 ]

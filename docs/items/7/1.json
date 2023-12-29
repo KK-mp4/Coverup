@@ -1690,5 +1690,89 @@
       106,
       96
     ]
+  },
+  {
+    "id": 141,
+    "title": "Medical Emergency",
+    "href": "https://wiki.teamfortress.com/wiki/Medical_Emergency",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/80/Item_icon_Medical_Emergency.png/75px-Item_icon_Medical_Emergency.png",
+    "region": "Hip",
+    "color": [
+      194,
+      172,
+      165
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Über-Wear",
+    "href": "https://wiki.teamfortress.com/wiki/%C3%9Cber-Wear",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/99/Item_icon_%C3%9Cber-Wear.png/75px-Item_icon_%C3%9Cber-Wear.png",
+    "region": "Shirt",
+    "color": [
+      124,
+      96,
+      91
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Main Cast",
+    "href": "https://wiki.teamfortress.com/wiki/Main_Cast",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/23/Item_icon_Main_Cast.png/75px-Item_icon_Main_Cast.png",
+    "region": "Feet",
+    "color": [
+      108,
+      107,
+      103
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Medical Mummy",
+    "href": "https://wiki.teamfortress.com/wiki/Medical_Mummy",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/f3/Item_icon_Medical_Mummy.png/75px-Item_icon_Medical_Mummy.png",
+    "region": "Head Skin",
+    "color": [
+      139,
+      120,
+      106
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Power Spike",
+    "href": "https://wiki.teamfortress.com/wiki/Power_Spike",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/73/Item_icon_Power_Spike.png/75px-Item_icon_Power_Spike.png",
+    "region": "Hat",
+    "color": [
+      135,
+      73,
+      63
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Frigid Fashion",
+    "href": "https://wiki.teamfortress.com/wiki/Frigid_Fashion",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/c4/Item_icon_Frigid_Fashion.png/75px-Item_icon_Frigid_Fashion.png",
+    "region": "Hat, Ears, Glasses",
+    "color": [
+      157,
+      91,
+      79
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Puffed Practitioner",
+    "href": "https://wiki.teamfortress.com/wiki/Puffed_Practitioner",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/3e/Item_icon_Puffed_Practitioner.png/75px-Item_icon_Puffed_Practitioner.png",
+    "region": "Shirt",
+    "color": [
+      150,
+      134,
+      127
+    ]
   }
 ]

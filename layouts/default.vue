@@ -29,6 +29,7 @@ useHead({
 body {
     margin: 0;
     background: linear-gradient(0deg, #312E29, #393631);
+    background-attachment: fixed;
     font-size: 16px;
     color: #ECE3CB;
     font-family: TF2 Build;

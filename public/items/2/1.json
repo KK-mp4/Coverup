@@ -2038,5 +2038,77 @@
       124,
       109
     ]
+  },
+  {
+    "id": 170,
+    "title": "Close Quarters Cover",
+    "href": "https://wiki.teamfortress.com/wiki/Close_Quarters_Cover",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/91/Item_icon_Close_Quarters_Cover.png/75px-Item_icon_Close_Quarters_Cover.png",
+    "region": "Hat",
+    "color": [
+      103,
+      77,
+      61
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Stealth Bomber",
+    "href": "https://wiki.teamfortress.com/wiki/Stealth_Bomber",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/7b/Item_icon_Stealth_Bomber.png/75px-Item_icon_Stealth_Bomber.png",
+    "region": "Grenades, Pants",
+    "color": [
+      78,
+      71,
+      46
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Shortness Of Breath",
+    "href": "https://wiki.teamfortress.com/wiki/Shortness_Of_Breath",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b5/Item_icon_Shortness_Of_Breath.png/75px-Item_icon_Shortness_Of_Breath.png",
+    "region": "Face",
+    "color": [
+      108,
+      97,
+      76
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Warlock's Warcloak",
+    "href": "https://wiki.teamfortress.com/wiki/Warlock%27s_Warcloak",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/28/Item_icon_Warlock%27s_Warcloak.png/75px-Item_icon_Warlock%27s_Warcloak.png",
+    "region": "Necklace",
+    "color": [
+      72,
+      64,
+      64
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Trench Warfarer",
+    "href": "https://wiki.teamfortress.com/wiki/Trench_Warfarer",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/6d/Item_icon_Trench_Warfarer.png/75px-Item_icon_Trench_Warfarer.png",
+    "region": "Coat",
+    "color": [
+      110,
+      46,
+      45
+    ]
+  },
+  {
+    "id": 175,
+    "title": "Wanderer's Wool",
+    "href": "https://wiki.teamfortress.com/wiki/Wanderer%27s_Wool",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/01/Item_icon_Wanderer%27s_Wool.png/75px-Item_icon_Wanderer%27s_Wool.png",
+    "region": "Hat, Beard",
+    "color": [
+      125,
+      92,
+      89
+    ]
   }
 ]

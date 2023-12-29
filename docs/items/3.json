@@ -1570,5 +1570,125 @@
       127,
       65
     ]
+  },
+  {
+    "id": 131,
+    "title": "Sky Stallion War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/d/d1/Backpack_Sky_Stallion_War_Paint_Factory_New.png/120px-Backpack_Sky_Stallion_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      123,
+      107,
+      75
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Business Class War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/4e/Backpack_Business_Class_War_Paint_Factory_New.png/120px-Backpack_Business_Class_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      55,
+      40,
+      22
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Deadly Dragon War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a5/Backpack_Deadly_Dragon_War_Paint_Factory_New.png/120px-Backpack_Deadly_Dragon_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      79,
+      44,
+      40
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Mechanized Monster War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/73/Backpack_Mechanized_Monster_War_Paint_Factory_New.png/120px-Backpack_Mechanized_Monster_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      55,
+      54,
+      55
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Steel Brushed War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/4e/Backpack_Steel_Brushed_War_Paint_Factory_New.png/120px-Backpack_Steel_Brushed_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      81,
+      80,
+      82
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Warborn War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/9f/Backpack_Warborn_War_Paint_Factory_New.png/120px-Backpack_Warborn_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      61,
+      47,
+      35
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Bomb Carrier War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/40/Backpack_Bomb_Carrier_War_Paint_Factory_New.png/120px-Backpack_Bomb_Carrier_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      101,
+      88,
+      89
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Pacific Peacemaker War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a5/Backpack_Pacific_Peacemaker_War_Paint_Factory_New.png/120px-Backpack_Pacific_Peacemaker_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      68,
+      74,
+      69
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Secretly Serviced War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/55/Backpack_Secretly_Serviced_War_Paint_Factory_New.png/120px-Backpack_Secretly_Serviced_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      43,
+      44,
+      42
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Team Serviced War Paint",
+    "href": "https://wiki.teamfortress.com/wiki/War_Paint",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/aa/Backpack_Team_Serviced_War_Paint_Factory_New.png/120px-Backpack_Team_Serviced_War_Paint_Factory_New.png",
+    "region": "War paint",
+    "color": [
+      87,
+      48,
+      35
+    ]
   }
 ]

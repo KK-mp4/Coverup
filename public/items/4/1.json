@@ -1870,5 +1870,113 @@
       67,
       68
     ]
+  },
+  {
+    "id": 156,
+    "title": "Blast Bowl",
+    "href": "https://wiki.teamfortress.com/wiki/Blast_Bowl",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/71/Item_icon_Blast_Bowl.png/75px-Item_icon_Blast_Bowl.png",
+    "region": "Hat",
+    "color": [
+      137,
+      66,
+      59
+    ]
+  },
+  {
+    "id": 157,
+    "title": "Shrapnel Shell",
+    "href": "https://wiki.teamfortress.com/wiki/Shrapnel_Shell",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/10/Item_icon_Shrapnel_Shell.png/75px-Item_icon_Shrapnel_Shell.png",
+    "region": "Grenades",
+    "color": [
+      72,
+      53,
+      47
+    ]
+  },
+  {
+    "id": 158,
+    "title": "Blastphomet",
+    "href": "https://wiki.teamfortress.com/wiki/Blastphomet",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/49/Item_icon_Blastphomet.png/75px-Item_icon_Blastphomet.png",
+    "region": "Whole Head, Head Skin",
+    "color": [
+      58,
+      54,
+      54
+    ]
+  },
+  {
+    "id": 159,
+    "title": "Mad Lad",
+    "href": "https://wiki.teamfortress.com/wiki/Mad_Lad",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/65/Item_icon_Mad_Lad.png/75px-Item_icon_Mad_Lad.png",
+    "region": "Grenades",
+    "color": [
+      60,
+      48,
+      48
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Stunt Suit",
+    "href": "https://wiki.teamfortress.com/wiki/Stunt_Suit",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/95/Item_icon_Stunt_Suit.png/75px-Item_icon_Stunt_Suit.png",
+    "region": "Pants",
+    "color": [
+      98,
+      62,
+      56
+    ]
+  },
+  {
+    "id": 161,
+    "title": "Thunder Dome",
+    "href": "https://wiki.teamfortress.com/wiki/Thunder_Dome",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/a/a8/Item_icon_Thunder_Dome.png/75px-Item_icon_Thunder_Dome.png",
+    "region": "Hat",
+    "color": [
+      166,
+      106,
+      89
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Lazy Lounger",
+    "href": "https://wiki.teamfortress.com/wiki/Lazy_Lounger",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/7/7d/Item_icon_Lazy_Lounger.png/75px-Item_icon_Lazy_Lounger.png",
+    "region": "Shirt",
+    "color": [
+      99,
+      66,
+      62
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Nightcap",
+    "href": "https://wiki.teamfortress.com/wiki/Nightcap",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/d/d7/Item_icon_Nightcap.png/75px-Item_icon_Nightcap.png",
+    "region": "Hat",
+    "color": [
+      138,
+      69,
+      67
+    ]
+  },
+  {
+    "id": 164,
+    "title": "Slumber Slacks",
+    "href": "https://wiki.teamfortress.com/wiki/Slumber_Slacks",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/5/5b/Item_icon_Slumber_Slacks.png/75px-Item_icon_Slumber_Slacks.png",
+    "region": "Pants, Feet",
+    "color": [
+      109,
+      43,
+      44
+    ]
   }
 ]

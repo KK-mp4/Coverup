@@ -2626,5 +2626,113 @@
       62,
       55
     ]
+  },
+  {
+    "id": 219,
+    "title": "Firestalker",
+    "href": "https://wiki.teamfortress.com/wiki/Firestalker",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/3/31/Item_icon_Firestalker.png/75px-Item_icon_Firestalker.png",
+    "region": "Hat",
+    "color": [
+      80,
+      50,
+      46
+    ]
+  },
+  {
+    "id": 220,
+    "title": "Flame Warrior",
+    "href": "https://wiki.teamfortress.com/wiki/Flame_Warrior",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/00/Item_icon_Flame_Warrior.png/75px-Item_icon_Flame_Warrior.png",
+    "region": "Hat",
+    "color": [
+      83,
+      79,
+      80
+    ]
+  },
+  {
+    "id": 221,
+    "title": "Soho Sleuth",
+    "href": "https://wiki.teamfortress.com/wiki/Soho_Sleuth",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/67/Item_icon_Soho_Sleuth.png/75px-Item_icon_Soho_Sleuth.png",
+    "region": "Shirt",
+    "color": [
+      99,
+      55,
+      53
+    ]
+  },
+  {
+    "id": 222,
+    "title": "Dead Heat",
+    "href": "https://wiki.teamfortress.com/wiki/Dead_Heat",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/82/Item_icon_Dead_Heat.png/75px-Item_icon_Dead_Heat.png",
+    "region": "Head Replacement",
+    "color": [
+      120,
+      100,
+      64
+    ]
+  },
+  {
+    "id": 223,
+    "title": "Fiercesome Fluorescence",
+    "href": "https://wiki.teamfortress.com/wiki/Fiercesome_Fluorescence",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/0d/Item_icon_Fiercesome_Fluorescence.png/75px-Item_icon_Fiercesome_Fluorescence.png",
+    "region": "Hat",
+    "color": [
+      118,
+      63,
+      47
+    ]
+  },
+  {
+    "id": 224,
+    "title": "Splitting Headache",
+    "href": "https://wiki.teamfortress.com/wiki/Splitting_Headache",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/ca/Item_icon_Splitting_Headache.png/75px-Item_icon_Splitting_Headache.png",
+    "region": "Hat",
+    "color": [
+      76,
+      64,
+      59
+    ]
+  },
+  {
+    "id": 225,
+    "title": "Impact Impaler",
+    "href": "https://wiki.teamfortress.com/wiki/Impact_Impaler",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/95/Item_icon_Impact_Impaler.png/75px-Item_icon_Impact_Impaler.png",
+    "region": "Hat",
+    "color": [
+      98,
+      87,
+      83
+    ]
+  },
+  {
+    "id": 226,
+    "title": "Masked Loyalty",
+    "href": "https://wiki.teamfortress.com/wiki/Masked_Loyalty",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/0/08/Item_icon_Masked_Loyalty.png/75px-Item_icon_Masked_Loyalty.png",
+    "region": "Head Replacement",
+    "color": [
+      104,
+      91,
+      90
+    ]
+  },
+  {
+    "id": 227,
+    "title": "Torcher's Trench Coat",
+    "href": "https://wiki.teamfortress.com/wiki/Torcher%27s_Trench_Coat",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/15/Item_icon_Torcher%27s_Trench_Coat.png/75px-Item_icon_Torcher%27s_Trench_Coat.png",
+    "region": "Shirt",
+    "color": [
+      100,
+      64,
+      59
+    ]
   }
 ]

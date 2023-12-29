@@ -1990,5 +1990,89 @@
       104,
       96
     ]
+  },
+  {
+    "id": 166,
+    "title": "Brother Mann",
+    "href": "https://wiki.teamfortress.com/wiki/Brother_Mann",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b5/Item_icon_Brother_Mann.png/75px-Item_icon_Brother_Mann.png",
+    "region": "Hair, Glasses, Beard",
+    "color": [
+      120,
+      85,
+      73
+    ]
+  },
+  {
+    "id": 167,
+    "title": "Heavy Metal",
+    "href": "https://wiki.teamfortress.com/wiki/Heavy_Metal",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/bc/Item_icon_Heavy_Metal.png/75px-Item_icon_Heavy_Metal.png",
+    "region": "Shirt",
+    "color": [
+      77,
+      47,
+      45
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Hog Heels",
+    "href": "https://wiki.teamfortress.com/wiki/Hog_Heels",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b7/Item_icon_Hog_Heels.png/75px-Item_icon_Hog_Heels.png",
+    "region": "Pants",
+    "color": [
+      63,
+      49,
+      42
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Bare Bear Bones",
+    "href": "https://wiki.teamfortress.com/wiki/Bare_Bear_Bones",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/fd/Item_icon_Bare_Bear_Bones.png/75px-Item_icon_Bare_Bear_Bones.png",
+    "region": "Hat",
+    "color": [
+      152,
+      139,
+      128
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Make Ogre",
+    "href": "https://wiki.teamfortress.com/wiki/Make_Ogre",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/2/2e/Item_icon_Make_Ogre.png/75px-Item_icon_Make_Ogre.png",
+    "region": "Face",
+    "color": [
+      174,
+      111,
+      93
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Balkan's Brute",
+    "href": "https://wiki.teamfortress.com/wiki/Balkan%27s_Brute",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/ea/Item_icon_Balkan%27s_Brute.png/75px-Item_icon_Balkan%27s_Brute.png",
+    "region": "Hat",
+    "color": [
+      88,
+      76,
+      70
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Bigger Mann on Campus",
+    "href": "https://wiki.teamfortress.com/wiki/Bigger_Mann_on_Campus",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/b/b9/Item_icon_Bigger_Mann_on_Campus.png/75px-Item_icon_Bigger_Mann_on_Campus.png",
+    "region": "Shirt",
+    "color": [
+      105,
+      60,
+      64
+    ]
   }
 ]

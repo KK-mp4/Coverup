@@ -2134,5 +2134,77 @@
       109,
       95
     ]
+  },
+  {
+    "id": 178,
+    "title": "Brimmed Bootlegger",
+    "href": "https://wiki.teamfortress.com/wiki/Brimmed_Bootlegger",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/f6/Item_icon_Brimmed_Bootlegger.png/75px-Item_icon_Brimmed_Bootlegger.png",
+    "region": "Hat",
+    "color": [
+      106,
+      97,
+      93
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Prohibition Opposition",
+    "href": "https://wiki.teamfortress.com/wiki/Prohibition_Opposition",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/4/4e/Item_icon_Prohibition_Opposition.png/75px-Item_icon_Prohibition_Opposition.png",
+    "region": "Shirt",
+    "color": [
+      173,
+      71,
+      74
+    ]
+  },
+  {
+    "id": 180,
+    "title": "Jumping Jester",
+    "href": "https://wiki.teamfortress.com/wiki/Jumping_Jester",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/1/12/Item_icon_Jumping_Jester.png/75px-Item_icon_Jumping_Jester.png",
+    "region": "Shirt",
+    "color": [
+      181,
+      95,
+      86
+    ]
+  },
+  {
+    "id": 181,
+    "title": "Last Laugh",
+    "href": "https://wiki.teamfortress.com/wiki/Last_Laugh",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/c/cf/Item_icon_Last_Laugh.png/75px-Item_icon_Last_Laugh.png",
+    "region": "Face",
+    "color": [
+      190,
+      111,
+      112
+    ]
+  },
+  {
+    "id": 182,
+    "title": "Bonk Beanie",
+    "href": "https://wiki.teamfortress.com/wiki/Bonk_Beanie",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/83/Item_icon_Bonk_Beanie.png/75px-Item_icon_Bonk_Beanie.png",
+    "region": "Hat",
+    "color": [
+      183,
+      106,
+      65
+    ]
+  },
+  {
+    "id": 183,
+    "title": "Isotopic Insulator",
+    "href": "https://wiki.teamfortress.com/wiki/Isotopic_Insulator",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/98/Item_icon_Isotopic_Insulator.png/75px-Item_icon_Isotopic_Insulator.png",
+    "region": "Shirt",
+    "color": [
+      198,
+      92,
+      77
+    ]
   }
 ]

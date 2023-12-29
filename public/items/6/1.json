@@ -2002,5 +2002,89 @@
       62,
       58
     ]
+  },
+  {
+    "id": 167,
+    "title": "Cargo Constructor",
+    "href": "https://wiki.teamfortress.com/wiki/Cargo_Constructor",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/9/97/Item_icon_Cargo_Constructor.png/75px-Item_icon_Cargo_Constructor.png",
+    "region": "Shirt",
+    "color": [
+      130,
+      85,
+      69
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Cranium Cooler",
+    "href": "https://wiki.teamfortress.com/wiki/Cranium_Cooler",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e9/Item_icon_Cranium_Cooler.png/75px-Item_icon_Cranium_Cooler.png",
+    "region": "Hat",
+    "color": [
+      102,
+      58,
+      55
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Hazard Handler",
+    "href": "https://wiki.teamfortress.com/wiki/Hazard_Handler",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/e/e9/Item_icon_Hazard_Handler.png/75px-Item_icon_Hazard_Handler.png",
+    "region": "Hat",
+    "color": [
+      180,
+      112,
+      69
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Constructor's Cover",
+    "href": "https://wiki.teamfortress.com/wiki/Constructor%27s_Cover",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/69/Item_icon_Constructor%27s_Cover.png/75px-Item_icon_Constructor%27s_Cover.png",
+    "region": "Shirt",
+    "color": [
+      195,
+      84,
+      73
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Dell Dynamic",
+    "href": "https://wiki.teamfortress.com/wiki/Dell_Dynamic",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/f/f6/Item_icon_Dell_Dynamic.png/75px-Item_icon_Dell_Dynamic.png",
+    "region": "Hat",
+    "color": [
+      165,
+      88,
+      72
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Clue Hairdo",
+    "href": "https://wiki.teamfortress.com/wiki/Clue_Hairdo",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/6/61/Item_icon_Clue_Hairdo.png/75px-Item_icon_Clue_Hairdo.png",
+    "region": "Hat",
+    "color": [
+      121,
+      76,
+      60
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Sleuth Suit",
+    "href": "https://wiki.teamfortress.com/wiki/Sleuth_Suit",
+    "src": "https://wiki.teamfortress.com/w/images/thumb/8/8d/Item_icon_Sleuth_Suit.png/75px-Item_icon_Sleuth_Suit.png",
+    "region": "Shirt",
+    "color": [
+      120,
+      65,
+      61
+    ]
   }
 ]
